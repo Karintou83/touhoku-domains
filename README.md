@@ -17,15 +17,6 @@
 
 `tree.html?domain=<藩のQID>&lord=<人物のQID>`、`all.html?lord=<人物のQID>`、`map.html?domain=<藩のQID>` / `?lord=<人物のQID>` / `?year=<年>` で、表示する対象を URL から指定できます。
 
-## ローカルで見る
-
-```
-python -m http.server 8000      # リポジトリのルートで実行
-# ブラウザで http://localhost:8000/ を開く (file:// では JSON を読めません)
-```
-
-表示ライブラリ(Cytoscape.js・dagre・Leaflet)は unpkg の CDN からバージョン固定で読み込むので、閲覧にはネットワークが必要です。
-
 ## データを作り直す
 
 Python 3.9 以降。標準ライブラリだけで動きます(追加のインストールは不要)。
