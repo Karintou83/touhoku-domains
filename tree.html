@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>藩別の家系図 | 東北諸藩 藩主データ</title>
+<link rel="stylesheet" href="assets/css/style.css">
+<!-- 表示ライブラリはバージョン固定で読み込む。cytoscape-dagre は dagre を先に読み込む必要がある。 -->
+<script src="https://unpkg.com/cytoscape@3.30.2/dist/cytoscape.min.js"></script>
+<script src="https://unpkg.com/dagre@0.8.5/dist/dagre.min.js"></script>
+<script src="https://unpkg.com/cytoscape-dagre@2.5.0/cytoscape-dagre.js"></script>
+</head>
+<body class="app">
+<header class="site">
+  <h1><a href="index.html">東北諸藩 藩主データ</a></h1>
+  <nav><a href="index.html">トップ</a><a href="tree.html" aria-current="page">藩別の家系図</a><a href="all.html">全体の系図</a><a href="map.html">地図</a></nav>
+</header>
+<div id="error" class="error" role="alert" hidden></div>
+<main>
+  <aside class="side">
+    <section class="card">
+      <h2>藩</h2>
+      <label class="field"><select id="domain"></select></label>
+      <div id="domainInfo"></div>
+      <label class="field">実父をさかのぼる世代数
+        <select id="gens"><option value="0">0(藩主のみ)</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5" selected>5</option><option value="8">8</option><option value="12">12</option></select></label>
+      <label class="check" data-adoption><input type="checkbox" id="showAdoption"> 養子関係も表示(既定は実父のみ)</label>
+      <label class="check"><input type="checkbox" id="hideExternal"> 東北外の大名家を隠す</label>
+      <label class="check"><input type="checkbox" id="showImages" checked> 肖像を表示</label>
+    </section>
+    <section class="card">
+      <h2>氏で強調</h2>
+      <label class="field"><select id="clan"><option value="">(なし)</option></select></label>
+      <button type="button" class="btn" id="clanAdd">この氏の藩主を追加</button>
+    </section>
+    <section class="card">
+      <h2>名前で探す</h2>
+      <label class="field"><input type="search" id="q" placeholder="例: 松前慶広" autocomplete="off"></label>
+      <ul id="results" class="results"></ul>
+    </section>
+    <section class="card">
+      <div class="row"><button type="button" class="btn" id="reset">表示をリセット</button></div>
+      <p id="count" class="sub"></p>
+      <p class="sub">人物のダブルクリックで親族を展開します。</p>
+    </section>
+    <details class="card" open><summary>凡例</summary>
+      <ul class="legend">
+        <li><span class="swatch solid"></span>実親子(実線)</li>
+        <li data-adoption><span class="swatch dotted"></span>養子(点線・矢印は養親→養子)</li>
+        <li data-adoption><span class="swatch dashed"></span>婿養子(破線)</li>
+        <li><span class="box ext"></span>東北外の大名家(灰色・破線)</li>
+        <li><span class="box hl"></span>氏が確定(Wikidata)</li>
+        <li><span class="box hli"></span>氏は推定(名前・実父から)</li>
+        <li><span class="box warn"></span>⚠ データ上の要確認あり(朱の二重枠)</li>
+        <li><span class="box img"></span>顔写真つきの人物は肖像(Wikimedia Commons)。作者・ライセンスは人物をクリックで表示、<a href="credits.html">一覧</a></li>
+        <li>ノードの色は、その人が藩主を務めた藩(最初の藩)を表します</li>
+      </ul>
+    </details>
+  </aside>
+  <section id="cy" class="canvas" aria-label="家系図"></section>
+  <aside class="side info"><section class="card"><h2>詳細</h2><div id="info"><p class="sub">人物をクリックすると詳細を表示します。</p></div></section></aside>
+</main>
+<footer class="site">
+  データ: <a href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a>(CC0)。人物名のリンクは日本語版Wikipedia。
+  氏の「推定」は名前や実父からの機械的な推定で、確定情報ではありません。肖像は <a href="credits.html">Wikimedia Commons(作者・ライセンス一覧)</a>。 <span id="generated"></span>
+</footer>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/tree-model.js"></script>
+<script src="assets/js/graph-ui.js"></script>
+<script src="assets/js/tree.js"></script>
+</body>
+</html>

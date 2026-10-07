@@ -1,0 +1,5 @@
+# Wikidata から取得した生データ(再取得できる。p39.json などが大きいため)
+data/raw/
+__pycache__/
+*.pyc
+*.new

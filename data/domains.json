@@ -1,0 +1,1147 @@
+[
+ {
+  "id": "Q1037917",
+  "name": "天童藩",
+  "positions": [
+   "Q141658000"
+  ],
+  "back": [
+   "Q141658000"
+  ],
+  "coord": {
+   "lat": 38.36211,
+   "lon": 140.37844,
+   "source": "P36",
+   "source_item": "Q385779",
+   "source_label": "天童市",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "天童藩",
+  "first_year": 1830,
+  "last_year": 1871
+ },
+ {
+  "id": "Q1037948",
+  "name": "米沢藩",
+  "positions": [
+   "Q141658040"
+  ],
+  "back": [
+   "Q141658040"
+  ],
+  "coord": {
+   "lat": 37.9096,
+   "lon": 140.105,
+   "source": "P159",
+   "source_item": "Q11262656",
+   "source_label": "米沢城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "米沢藩",
+  "first_year": 1601,
+  "last_year": 1871
+ },
+ {
+  "id": "Q1038319",
+  "name": "本荘藩",
+  "positions": [
+   "Q141658009"
+  ],
+  "back": [
+   "Q141658009"
+  ],
+  "coord": {
+   "lat": 39.38486,
+   "lon": 140.04747,
+   "source": "P159",
+   "source_item": "Q11520771",
+   "source_label": "本荘城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "本荘藩",
+  "first_year": 1623,
+  "last_year": 1871
+ },
+ {
+  "id": "Q1058224",
+  "name": "津山藩",
+  "positions": [
+   "Q141529989"
+  ],
+  "back": [],
+  "coord": {
+   "lat": 35.06277,
+   "lon": 134.00495,
+   "source": "P159",
+   "source_item": "Q767818",
+   "source_label": "津山城",
+   "precision": "exact"
+  },
+  "scope": "external",
+  "wikipedia": "津山藩",
+  "first_year": null,
+  "last_year": null
+ },
+ {
+  "id": "Q1062182",
+  "name": "仙台藩",
+  "positions": [
+   "Q141657994"
+  ],
+  "back": [
+   "Q141657994"
+  ],
+  "coord": {
+   "lat": 38.25248,
+   "lon": 140.85616,
+   "source": "P159",
+   "source_item": "Q598621",
+   "source_label": "仙台城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "仙台藩",
+  "first_year": 1600,
+  "last_year": 1871
+ },
+ {
+  "id": "Q1062196",
+  "name": "赤穂藩",
+  "positions": [
+   "Q141530771"
+  ],
+  "back": [
+   "Q141530771"
+  ],
+  "coord": {
+   "lat": 34.74567,
+   "lon": 134.38898,
+   "source": "P159",
+   "source_item": "Q601598",
+   "source_label": "赤穂城",
+   "precision": "exact"
+  },
+  "scope": "external",
+  "wikipedia": "赤穂藩",
+  "first_year": 1615,
+  "last_year": 1871
+ },
+ {
+  "id": "Q1067555",
+  "name": "白河藩",
+  "positions": [
+   "Q141658027"
+  ],
+  "back": [
+   "Q141658027"
+  ],
+  "coord": {
+   "lat": 37.13262,
+   "lon": 140.21358,
+   "source": "P159",
+   "source_item": "Q522630",
+   "source_label": "白河小峰城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "白河藩",
+  "first_year": 1627,
+  "last_year": 1868
+ },
+ {
+  "id": "Q1067720",
+  "name": "久保田藩",
+  "positions": [
+   "Q141657989"
+  ],
+  "back": [
+   "Q141657989"
+  ],
+  "coord": {
+   "lat": 39.7235,
+   "lon": 140.123,
+   "source": "P625",
+   "source_item": "Q1067720",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "久保田藩",
+  "first_year": 1602,
+  "last_year": 1871
+ },
+ {
+  "id": "Q1073012",
+  "name": "峰山藩",
+  "positions": [
+   "Q141515630"
+  ],
+  "back": [
+   "Q141515630"
+  ],
+  "coord": {
+   "lat": 35.62417,
+   "lon": 135.061,
+   "source": "P36",
+   "source_item": "Q11476128",
+   "source_label": "峰山町",
+   "precision": "approx"
+  },
+  "scope": "external",
+  "wikipedia": "峰山藩",
+  "first_year": 1622,
+  "last_year": 1871
+ },
+ {
+  "id": "Q10855332",
+  "name": "桑折藩",
+  "positions": [
+   "Q141658012"
+  ],
+  "back": [
+   "Q141658012"
+  ],
+  "coord": {
+   "lat": 37.85467,
+   "lon": 140.52072,
+   "source": "P36",
+   "source_item": "Q1205184",
+   "source_label": "桑折町",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "桑折藩",
+  "first_year": 1700,
+  "last_year": 1747
+ },
+ {
+  "id": "Q10855529",
+  "name": "窪田藩",
+  "positions": [
+   "Q141658035"
+  ],
+  "back": [
+   "Q141658035"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "窪田藩",
+  "first_year": 1622,
+  "last_year": 1684
+ },
+ {
+  "id": "Q10855530",
+  "name": "久保田新田藩",
+  "positions": [
+   "Q141657987"
+  ],
+  "back": [
+   "Q141657987"
+  ],
+  "coord": {
+   "lat": 39.7355,
+   "lon": 140.135,
+   "source": "branch_of",
+   "source_item": "Q1067720",
+   "source_label": "久保田藩",
+   "precision": "branch"
+  },
+  "scope": "tohoku",
+  "wikipedia": "久保田新田藩",
+  "first_year": 1701,
+  "last_year": 1732
+ },
+ {
+  "id": "Q10855960",
+  "name": "長瀞藩",
+  "positions": [
+   "Q141658041"
+  ],
+  "back": [
+   "Q141658041"
+  ],
+  "coord": {
+   "lat": 38.45808,
+   "lon": 140.37711,
+   "source": "P36",
+   "source_item": "Q11653370",
+   "source_label": "長瀞村",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "長瀞藩",
+  "first_year": 1798,
+  "last_year": 1869
+ },
+ {
+  "id": "Q10856283",
+  "name": "仁賀保藩",
+  "positions": [
+   "Q141657992"
+  ],
+  "back": [
+   "Q141657992"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "仁賀保藩",
+  "first_year": 1623,
+  "last_year": 1624
+ },
+ {
+  "id": "Q10856411",
+  "name": "高畠藩",
+  "positions": [
+   "Q141658043"
+  ],
+  "back": [
+   "Q141658043"
+  ],
+  "coord": {
+   "lat": 38.00275,
+   "lon": 140.18908,
+   "source": "P36",
+   "source_item": "Q772103",
+   "source_label": "高畠町",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "高畠藩",
+  "first_year": 1767,
+  "last_year": 1830
+ },
+ {
+  "id": "Q10863262",
+  "name": "岩沼藩",
+  "positions": [
+   "Q141658004"
+  ],
+  "back": [
+   "Q141658004"
+  ],
+  "coord": {
+   "lat": 38.10428,
+   "lon": 140.87017,
+   "source": "P36",
+   "source_item": "Q518203",
+   "source_label": "岩沼市",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "岩沼藩",
+  "first_year": 1660,
+  "last_year": 1681
+ },
+ {
+  "id": "Q10863276",
+  "name": "浅川藩",
+  "positions": [
+   "Q141658017"
+  ],
+  "back": [
+   "Q141658017"
+  ],
+  "coord": {
+   "lat": 37.08097,
+   "lon": 140.41286,
+   "source": "P36",
+   "source_item": "Q1205700",
+   "source_label": "浅川町",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "浅川藩",
+  "first_year": 1662,
+  "last_year": 1681
+ },
+ {
+  "id": "Q10863280",
+  "name": "石川藩",
+  "positions": [
+   "Q141658031"
+  ],
+  "back": [
+   "Q141658031"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "石川藩",
+  "first_year": 1662,
+  "last_year": 1681
+ },
+ {
+  "id": "Q10863309",
+  "name": "大久保藩",
+  "positions": [
+   "Q141657999"
+  ],
+  "back": [
+   "Q141657999"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "大久保藩",
+  "first_year": 1682,
+  "last_year": 1693
+ },
+ {
+  "id": "Q10863431",
+  "name": "出羽丸岡藩",
+  "positions": [
+   "Q141657997"
+  ],
+  "back": [
+   "Q141657997"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "出羽丸岡藩",
+  "first_year": 1632,
+  "last_year": 1653
+ },
+ {
+  "id": "Q10863528",
+  "name": "陸奥下村藩",
+  "positions": [
+   "Q141658042"
+  ],
+  "back": [
+   "Q141658042"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "陸奥下村藩",
+  "first_year": 1787,
+  "last_year": 1823
+ },
+ {
+  "id": "Q10863541",
+  "name": "村山藩",
+  "positions": [
+   "Q141658010"
+  ],
+  "back": [
+   "Q141658010"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "村山藩",
+  "first_year": 1682,
+  "last_year": 1699
+ },
+ {
+  "id": "Q10863544",
+  "name": "梁川藩",
+  "positions": [
+   "Q141658013"
+  ],
+  "back": [
+   "Q141658013"
+  ],
+  "coord": {
+   "lat": 37.85505,
+   "lon": 140.61099,
+   "source": "P625",
+   "source_item": "Q10863544",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "梁川藩",
+  "first_year": 1683,
+  "last_year": 1821
+ },
+ {
+  "id": "Q10863546",
+  "name": "矢島藩",
+  "positions": [
+   "Q141658030"
+  ],
+  "back": [
+   "Q141658030"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "矢島藩",
+  "first_year": 1640,
+  "last_year": 1871
+ },
+ {
+  "id": "Q12603905",
+  "name": "白河新田藩",
+  "positions": [
+   "Q141661504"
+  ],
+  "back": [
+   "Q141661504"
+  ],
+  "coord": {
+   "lat": 37.14462,
+   "lon": 140.22558,
+   "source": "branch_of",
+   "source_item": "Q1067555",
+   "source_label": "白河藩",
+   "precision": "branch"
+  },
+  "scope": "tohoku",
+  "wikipedia": "白河新田藩",
+  "first_year": 1688,
+  "last_year": 1728
+ },
+ {
+  "id": "Q12608573",
+  "name": "米沢新田藩",
+  "positions": [
+   "Q141658039"
+  ],
+  "back": [
+   "Q141658039"
+  ],
+  "coord": {
+   "lat": 37.9216,
+   "lon": 140.117,
+   "source": "branch_of",
+   "source_item": "Q1037948",
+   "source_label": "米沢藩",
+   "precision": "branch"
+  },
+  "scope": "tohoku",
+  "wikipedia": "米沢新田藩",
+  "first_year": 1719,
+  "last_year": 1869
+ },
+ {
+  "id": "Q141654715",
+  "name": "岩崎藩",
+  "positions": [
+   "Q141661611",
+   "Q141661612"
+  ],
+  "back": [
+   "Q141661611",
+   "Q141661612"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": null,
+  "first_year": 1701,
+  "last_year": 1871
+ },
+ {
+  "id": "Q141654758",
+  "name": "大山藩",
+  "positions": [
+   "Q141661696"
+  ],
+  "back": [
+   "Q141661696"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": null,
+  "first_year": 1647,
+  "last_year": 1668
+ },
+ {
+  "id": "Q141654775",
+  "name": "松山藩",
+  "positions": [
+   "Q141657998"
+  ],
+  "back": [
+   "Q141657998"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "出羽松山藩",
+  "first_year": 1647,
+  "last_year": 1871
+ },
+ {
+  "id": "Q141654806",
+  "name": "左沢藩",
+  "positions": [
+   "Q141661695"
+  ],
+  "back": [
+   "Q141661695"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": null,
+  "first_year": 1622,
+  "last_year": 1630
+ },
+ {
+  "id": "Q141661613",
+  "name": "湯本藩",
+  "positions": [
+   "Q141661619"
+  ],
+  "back": [
+   "Q141661619"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": null,
+  "first_year": 1670,
+  "last_year": 1676
+ },
+ {
+  "id": "Q16180027",
+  "name": "斗南藩",
+  "positions": [
+   "Q141658006"
+  ],
+  "back": [
+   "Q141658006"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "斗南藩",
+  "first_year": 1869,
+  "last_year": 1871
+ },
+ {
+  "id": "Q18669712",
+  "name": "松前藩",
+  "positions": [
+   "Q141658011"
+  ],
+  "back": [
+   "Q141658011"
+  ],
+  "coord": {
+   "lat": 41.42983,
+   "lon": 140.10839,
+   "source": "P159",
+   "source_item": "Q1143974",
+   "source_label": "松前城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "松前藩",
+  "first_year": 1617,
+  "last_year": 1871
+ },
+ {
+  "id": "Q3034399",
+  "name": "小城藩",
+  "positions": [
+   "Q141529979"
+  ],
+  "back": [],
+  "coord": {
+   "lat": 33.27367,
+   "lon": 130.21681,
+   "source": "P36",
+   "source_item": "Q877227",
+   "source_label": "小城市",
+   "precision": "approx"
+  },
+  "scope": "external",
+  "wikipedia": "小城藩",
+  "first_year": 1642,
+  "last_year": 1871
+ },
+ {
+  "id": "Q3034464",
+  "name": "鹿島藩",
+  "positions": [
+   "Q141531665"
+  ],
+  "back": [
+   "Q141531665"
+  ],
+  "coord": {
+   "lat": 33.10278,
+   "lon": 130.09333,
+   "source": "P159",
+   "source_item": "Q11677106",
+   "source_label": "鹿島城",
+   "precision": "exact"
+  },
+  "scope": "external",
+  "wikipedia": "鹿島藩",
+  "first_year": 1609,
+  "last_year": 1871
+ },
+ {
+  "id": "Q4389944",
+  "name": "会津藩",
+  "positions": [
+   "Q141657995"
+  ],
+  "back": [
+   "Q141657995"
+  ],
+  "coord": {
+   "lat": 37.48778,
+   "lon": 139.92972,
+   "source": "P159",
+   "source_item": "Q1365061",
+   "source_label": "若松城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "会津藩",
+  "first_year": 1601,
+  "last_year": 1869
+ },
+ {
+  "id": "Q7884520",
+  "name": "七戸藩",
+  "positions": [
+   "Q141657982"
+  ],
+  "back": [
+   "Q141657982"
+  ],
+  "coord": {
+   "lat": 40.69809,
+   "lon": 141.14902,
+   "source": "P159",
+   "source_item": "Q11353531",
+   "source_label": "七戸城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "七戸藩",
+  "first_year": 1819,
+  "last_year": 1871
+ },
+ {
+  "id": "Q7884927",
+  "name": "八戸藩",
+  "positions": [
+   "Q141657996"
+  ],
+  "back": [
+   "Q141657996"
+  ],
+  "coord": {
+   "lat": 40.51475,
+   "lon": 141.48786,
+   "source": "P159",
+   "source_item": "Q994058",
+   "source_label": "八戸城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "八戸藩",
+  "first_year": 1664,
+  "last_year": 1871
+ },
+ {
+  "id": "Q7884947",
+  "name": "黒石藩",
+  "positions": [
+   "Q141658044"
+  ],
+  "back": [
+   "Q141658044"
+  ],
+  "coord": {
+   "lat": 40.60694,
+   "lon": 140.46444,
+   "source": "P625",
+   "source_item": "Q7884947",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "黒石藩",
+  "first_year": 1809,
+  "last_year": 1871
+ },
+ {
+  "id": "Q843782",
+  "name": "磐城平藩",
+  "positions": [
+   "Q141658032"
+  ],
+  "back": [
+   "Q141658032"
+  ],
+  "coord": {
+   "lat": 37.05913,
+   "lon": 140.89092,
+   "source": "P159",
+   "source_item": "Q11587869",
+   "source_label": "磐城平城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "磐城平藩",
+  "first_year": 1602,
+  "last_year": 1871
+ },
+ {
+  "id": "Q843911",
+  "name": "三春藩",
+  "positions": [
+   "Q141657983"
+  ],
+  "back": [
+   "Q141657983"
+  ],
+  "coord": {
+   "lat": 37.44256,
+   "lon": 140.4965,
+   "source": "P159",
+   "source_item": "Q11355537",
+   "source_label": "三春城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "三春藩",
+  "first_year": 1627,
+  "last_year": 1871
+ },
+ {
+  "id": "Q844079",
+  "name": "相馬中村藩",
+  "positions": [
+   "Q141658029"
+  ],
+  "back": [
+   "Q141658029"
+  ],
+  "coord": {
+   "lat": 37.79804,
+   "lon": 140.91431,
+   "source": "P159",
+   "source_item": "Q11582470",
+   "source_label": "相馬中村城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "相馬中村藩",
+  "first_year": 1602,
+  "last_year": 1871
+ },
+ {
+  "id": "Q844227",
+  "name": "中津山藩",
+  "positions": [
+   "Q141657985"
+  ],
+  "back": [
+   "Q141657985"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "中津山藩",
+  "first_year": 1695,
+  "last_year": 1699
+ },
+ {
+  "id": "Q844425",
+  "name": "湯長谷藩",
+  "positions": [
+   "Q141658022"
+  ],
+  "back": [
+   "Q141658022"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "湯長谷藩",
+  "first_year": 1676,
+  "last_year": 1871
+ },
+ {
+  "id": "Q847258",
+  "name": "亀田藩",
+  "positions": [
+   "Q141657990"
+  ],
+  "back": [
+   "Q141657990"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "亀田藩",
+  "first_year": 1623,
+  "last_year": 1871
+ },
+ {
+  "id": "Q847265",
+  "name": "新庄藩",
+  "positions": [
+   "Q141658007"
+  ],
+  "back": [
+   "Q141658007"
+  ],
+  "coord": {
+   "lat": 38.767,
+   "lon": 140.294,
+   "source": "P159",
+   "source_item": "Q11502191",
+   "source_label": "新庄城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "新庄藩",
+  "first_year": 1622,
+  "last_year": 1871
+ },
+ {
+  "id": "Q847283",
+  "name": "上山藩",
+  "positions": [
+   "Q141657984"
+  ],
+  "back": [
+   "Q141657984"
+  ],
+  "coord": {
+   "lat": 38.1575,
+   "lon": 140.27611,
+   "source": "P159",
+   "source_item": "Q847251",
+   "source_label": "上山城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "上山藩",
+  "first_year": 1622,
+  "last_year": 1871
+ },
+ {
+  "id": "Q847303",
+  "name": "庄内藩",
+  "positions": [
+   "Q141658005"
+  ],
+  "back": [
+   "Q141658005"
+  ],
+  "coord": {
+   "lat": 38.72874,
+   "lon": 139.82455,
+   "source": "P159",
+   "source_item": "Q11675874",
+   "source_label": "鶴ヶ岡城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "庄内藩",
+  "first_year": 1622,
+  "last_year": 1871
+ },
+ {
+  "id": "Q903555",
+  "name": "弘前藩",
+  "positions": [
+   "Q141657919"
+  ],
+  "back": [
+   "Q141657919"
+  ],
+  "coord": {
+   "lat": 40.60804,
+   "lon": 140.46381,
+   "source": "P159",
+   "source_item": "Q328582",
+   "source_label": "弘前城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "弘前藩",
+  "first_year": 1590,
+  "last_year": 1871
+ },
+ {
+  "id": "Q908769",
+  "name": "山形藩",
+  "positions": [
+   "Q141658002"
+  ],
+  "back": [
+   "Q141658002"
+  ],
+  "coord": {
+   "lat": 38.25556,
+   "lon": 140.32806,
+   "source": "P159",
+   "source_item": "Q15604669",
+   "source_label": "山形城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "山形藩",
+  "first_year": 1600,
+  "last_year": 1870
+ },
+ {
+  "id": "Q908854",
+  "name": "盛岡藩",
+  "positions": [
+   "Q141658028"
+  ],
+  "back": [
+   "Q141658028"
+  ],
+  "coord": {
+   "lat": 39.69995,
+   "lon": 141.15011,
+   "source": "P159",
+   "source_item": "Q251650",
+   "source_label": "盛岡城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "盛岡藩",
+  "first_year": 1599,
+  "last_year": 1870
+ },
+ {
+  "id": "Q908992",
+  "name": "一関藩",
+  "positions": [
+   "Q141657980"
+  ],
+  "back": [
+   "Q141657980"
+  ],
+  "coord": {
+   "lat": 38.93472,
+   "lon": 141.12658,
+   "source": "P36",
+   "source_item": "Q390817",
+   "source_label": "一関市",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "一関藩",
+  "first_year": 1660,
+  "last_year": 1871
+ },
+ {
+  "id": "Q909007",
+  "name": "二本松藩",
+  "positions": [
+   "Q141657991"
+  ],
+  "back": [
+   "Q141657991"
+  ],
+  "coord": {
+   "lat": 37.59964,
+   "lon": 140.42799,
+   "source": "P159",
+   "source_item": "Q593054",
+   "source_label": "二本松城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "二本松藩",
+  "first_year": 1627,
+  "last_year": 1871
+ },
+ {
+  "id": "Q909259",
+  "name": "棚倉藩",
+  "positions": [
+   "Q141658015"
+  ],
+  "back": [
+   "Q141658015"
+  ],
+  "coord": {
+   "lat": 37.02969,
+   "lon": 140.38564,
+   "source": "P159",
+   "source_item": "Q11538997",
+   "source_label": "棚倉城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "棚倉藩",
+  "first_year": 1603,
+  "last_year": 1871
+ },
+ {
+  "id": "Q909294",
+  "name": "福島藩",
+  "positions": [
+   "Q141658033"
+  ],
+  "back": [
+   "Q141658033"
+  ],
+  "coord": {
+   "lat": 37.75056,
+   "lon": 140.48556,
+   "source": "P159",
+   "source_item": "Q11288319",
+   "source_label": "福島城",
+   "precision": "exact"
+  },
+  "scope": "tohoku",
+  "wikipedia": "福島藩",
+  "first_year": 1679,
+  "last_year": 1869
+ },
+ {
+  "id": "Q909946",
+  "name": "泉藩",
+  "positions": [
+   "Q141658016"
+  ],
+  "back": [
+   "Q141658016"
+  ],
+  "coord": null,
+  "scope": "tohoku",
+  "wikipedia": "泉藩",
+  "first_year": 1634,
+  "last_year": 1871
+ },
+ {
+  "id": "Q910006",
+  "name": "守山藩",
+  "positions": [
+   "Q141658001"
+  ],
+  "back": [
+   "Q141658001"
+  ],
+  "coord": {
+   "lat": 37.32522,
+   "lon": 140.41339,
+   "source": "P36",
+   "source_item": "Q11450061",
+   "source_label": "守山町",
+   "precision": "approx"
+  },
+  "scope": "tohoku",
+  "wikipedia": "守山藩",
+  "first_year": 1700,
+  "last_year": 1871
+ },
+ {
+  "id": "Q910993",
+  "name": "佐倉藩",
+  "positions": [
+   "Q141529984"
+  ],
+  "back": [
+   "Q141529984"
+  ],
+  "coord": {
+   "lat": 35.72199,
+   "lon": 140.21672,
+   "source": "P159",
+   "source_item": "Q8014937",
+   "source_label": "佐倉城",
+   "precision": "exact"
+  },
+  "scope": "external",
+  "wikipedia": "佐倉藩",
+  "first_year": 1593,
+  "last_year": 1871
+ }
+]

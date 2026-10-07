@@ -1,0 +1,111 @@
+{
+ "generated_at": "2026-10-07T08:13:25+00:00",
+ "source": "Wikidata (CC0). 日本語版Wikipediaへのリンクを出典として残す",
+ "counts": {
+  "domains": 58,
+  "lords": 920,
+  "tenures": 508,
+  "relations": 819,
+  "warnings": {
+   "warn": 31,
+   "info": 27
+  }
+ },
+ "clan_source": {
+  "wikidata": 136,
+  "inferred_name": 505,
+  "none": 275,
+  "inherited_father": 4
+ },
+ "clan_inference_selfcheck": {
+  "evaluated": 136,
+  "correct": 105
+ },
+ "p1038_skipped_non_adoption": {
+  "Q9238344": 3,
+  "Q76557": 1,
+  "Q10291472": 3,
+  "Q3972282": 1,
+  "Q15224724": 2,
+  "Q11666901": 6,
+  "Q167918": 2
+ },
+ "p1039_roles": {
+  "Q10291472": {
+   "label": "弟",
+   "role": "other"
+  },
+  "Q11666901": {
+   "label": "義理の親族関係",
+   "role": "other"
+  },
+  "Q13204680": {
+   "label": "義父",
+   "role": "parent"
+  },
+  "Q15224724": {
+   "label": "甥",
+   "role": "other"
+  },
+  "Q167918": {
+   "label": "祖父母",
+   "role": "other"
+  },
+  "Q20746725": {
+   "label": "養男子",
+   "role": "child"
+  },
+  "Q20746728": {
+   "label": "養女",
+   "role": "child"
+  },
+  "Q20746742": {
+   "label": "養親",
+   "role": "parent"
+  },
+  "Q25858158": {
+   "label": "養子",
+   "role": "child"
+  },
+  "Q3752578": {
+   "label": "娘婿",
+   "role": "child"
+  },
+  "Q3972282": {
+   "label": "兄",
+   "role": "other"
+  },
+  "Q61740757": {
+   "label": "養父",
+   "role": "parent"
+  },
+  "Q61740758": {
+   "label": "養母",
+   "role": "parent"
+  },
+  "Q6933584": {
+   "label": "婿養子",
+   "role": "child"
+  },
+  "Q76557": {
+   "label": "おじ",
+   "role": "other"
+  },
+  "Q9238344": {
+   "label": "祖父",
+   "role": "other"
+  }
+ },
+ "fetched": {
+  "meta": true,
+  "outside_children": true,
+  "gender": true
+ },
+ "excluded": {
+  "female": 196,
+  "parent_gender_unknown": 0,
+  "adoption_edges": 156
+ },
+ "include_adoption": false,
+ "ancestor_generations": 8
+}

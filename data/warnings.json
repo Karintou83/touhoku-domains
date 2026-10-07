@@ -1,0 +1,408 @@
+[
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10855529",
+  "message": "窪田藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10856283",
+  "message": "仁賀保藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10863280",
+  "message": "石川藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10863309",
+  "message": "大久保藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10863431",
+  "message": "出羽丸岡藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10863528",
+  "message": "陸奥下村藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10863541",
+  "message": "村山藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q10863546",
+  "message": "矢島藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q141654715",
+  "message": "岩崎藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q141654758",
+  "message": "大山藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q141654775",
+  "message": "松山藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q141654806",
+  "message": "左沢藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q141661613",
+  "message": "湯本藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q16180027",
+  "message": "斗南藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q844227",
+  "message": "中津山藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q844425",
+  "message": "湯長谷藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q847258",
+  "message": "亀田藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "coord_missing",
+  "subject": "Q909946",
+  "message": "泉藩: 座標を取得できません(藩P625・城P159・P36のいずれも無し)"
+ },
+ {
+  "level": "warn",
+  "kind": "domain_position_mismatch",
+  "subject": "Q1058224",
+  "message": "津山藩: 役職側P2389と藩側P2388が一致しません (役職→藩: ['Q141529989'] / 藩→役職: [])",
+  "positions": [
+   "Q141529989"
+  ],
+  "back": []
+ },
+ {
+  "level": "warn",
+  "kind": "domain_position_mismatch",
+  "subject": "Q3034399",
+  "message": "小城藩: 役職側P2389と藩側P2388が一致しません (役職→藩: ['Q141529979'] / 藩→役職: [])",
+  "positions": [
+   "Q141529979"
+  ],
+  "back": []
+ },
+ {
+  "level": "warn",
+  "kind": "lord_no_father",
+  "subject": "Q10860025",
+  "message": "小笠原吉次: 実父(P22)がありません"
+ },
+ {
+  "level": "warn",
+  "kind": "lord_no_father",
+  "subject": "Q3530227",
+  "message": "戸田忠昌: 実父(P22)がありません"
+ },
+ {
+  "level": "warn",
+  "kind": "multiple_fathers",
+  "subject": "Q110249784",
+  "message": "林政秀: 実父が複数あります(林通政 (織田信長の家臣)、林通政 (駿河守))"
+ },
+ {
+  "level": "warn",
+  "kind": "multiple_fathers",
+  "subject": "Q11239114",
+  "message": "松平信光: 実父が複数あります(松平泰親、松平親氏)"
+ },
+ {
+  "level": "warn",
+  "kind": "multiple_fathers",
+  "subject": "Q1188498",
+  "message": "水野忠政: 実父が複数あります(水野賢勝、水野清忠)"
+ },
+ {
+  "level": "warn",
+  "kind": "multiple_fathers",
+  "subject": "Q6959828",
+  "message": "内藤信成: 実父が複数あります(松平広忠、嶋田景信)"
+ },
+ {
+  "level": "warn",
+  "kind": "multiple_fathers",
+  "subject": "Q6993673",
+  "message": "松平頼純: 実父が複数あります(徳川頼宣、NN)"
+ },
+ {
+  "level": "warn",
+  "kind": "multiple_fathers",
+  "subject": "Q8515117",
+  "message": "松平康信: 実父が複数あります(松平家信、松平康安)"
+ },
+ {
+  "level": "warn",
+  "kind": "p40_without_p22",
+  "subject": "Q11539690",
+  "message": "森忠洪 の子として P40 にありますが、森忠興 側に P22 がありません"
+ },
+ {
+  "level": "warn",
+  "kind": "p40_without_p22",
+  "subject": "Q8515117",
+  "message": "松平康安 の子として P40 にありますが、松平康信 側に P22 がありません"
+ },
+ {
+  "level": "warn",
+  "kind": "tenure_no_start",
+  "subject": "Q844035",
+  "message": "松前慶広: 松前藩主 の開始年がありません"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q1037917",
+  "message": "天童藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q1073012",
+  "message": "峰山藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q10855332",
+  "message": "桑折藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q10855960",
+  "message": "長瀞藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q10856411",
+  "message": "高畠藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q10863262",
+  "message": "岩沼藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q10863276",
+  "message": "浅川藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q3034399",
+  "message": "小城藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q908992",
+  "message": "一関藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_approx",
+  "subject": "Q910006",
+  "message": "守山藩: 市町村(P36)の座標で代用した概略位置です"
+ },
+ {
+  "level": "info",
+  "kind": "coord_branch",
+  "subject": "Q10855530",
+  "message": "久保田新田藩: 固有の陣屋が無いため、本藩 久保田藩 の陣屋付近に仮置きしています"
+ },
+ {
+  "level": "info",
+  "kind": "coord_branch",
+  "subject": "Q12603905",
+  "message": "白河新田藩: 固有の陣屋が無いため、本藩 白河藩 の陣屋付近に仮置きしています"
+ },
+ {
+  "level": "info",
+  "kind": "coord_branch",
+  "subject": "Q12608573",
+  "message": "米沢新田藩: 固有の陣屋が無いため、本藩 米沢藩 の陣屋付近に仮置きしています"
+ },
+ {
+  "level": "info",
+  "kind": "multiple_stints",
+  "subject": "Q11239138",
+  "message": "松平忠弘: 山形藩主 に在任声明が2件(再任、または重複入力)",
+  "spans": [
+   [
+    1648,
+    1668
+   ],
+   [
+    1692,
+    1692
+   ]
+  ]
+ },
+ {
+  "level": "info",
+  "kind": "multiple_stints",
+  "subject": "Q5370072",
+  "message": "織田信敏: 天童藩主 に在任声明が2件(再任、または重複入力)",
+  "spans": [
+   [
+    1868,
+    1868
+   ],
+   [
+    1869,
+    1871
+   ]
+  ]
+ },
+ {
+  "level": "info",
+  "kind": "multiple_stints",
+  "subject": "Q8012981",
+  "message": "阿部正静: 棚倉藩主 に在任声明が2件(再任、または重複入力)",
+  "spans": [
+   [
+    1866,
+    1868
+   ],
+   [
+    1868,
+    1868
+   ]
+  ]
+ },
+ {
+  "level": "info",
+  "kind": "multiple_stints",
+  "subject": "Q8012981",
+  "message": "阿部正静: 白河藩主 に在任声明が2件(再任、または重複入力)",
+  "spans": [
+   [
+    1866,
+    1866
+   ],
+   [
+    1868,
+    1868
+   ]
+  ]
+ },
+ {
+  "level": "info",
+  "kind": "multiple_stints",
+  "subject": "Q8514326",
+  "message": "松前章広: 松前藩主 に在任声明が2件(再任、または重複入力)",
+  "spans": [
+   [
+    1792,
+    1807
+   ],
+   [
+    1821,
+    1833
+   ]
+  ]
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q10291472",
+  "message": "P1038の関係 Q10291472(弟) 3件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q11666901",
+  "message": "P1038の関係 Q11666901(義理の親族関係) 6件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q15224724",
+  "message": "P1038の関係 Q15224724(甥) 2件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q167918",
+  "message": "P1038の関係 Q167918(祖父母) 2件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q3972282",
+  "message": "P1038の関係 Q3972282(兄) 1件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q76557",
+  "message": "P1038の関係 Q76557(おじ) 1件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p1039_skipped",
+  "subject": "Q9238344",
+  "message": "P1038の関係 Q9238344(祖父) 3件は養子関係ではないため辺にしていません(養子関係として扱うなら config.json の p1039_roles で指定)"
+ },
+ {
+  "level": "info",
+  "kind": "p22_without_p40",
+  "subject": "Q115587375",
+  "message": "松平正親 の実父 松平三光 側に P40 がありません"
+ },
+ {
+  "level": "info",
+  "kind": "position_no_holders",
+  "subject": "Q141529989",
+  "message": "津山藩主: P39の在任者がいません(P1308側には在任者あり)"
+ }
+]

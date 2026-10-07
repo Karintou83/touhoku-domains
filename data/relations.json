@@ -1,0 +1,5747 @@
+[
+ {
+  "id": "blood:Q10297028:Q5368867",
+  "source": "Q10297028",
+  "target": "Q5368867",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1036482:Q1385927",
+  "source": "Q1036482",
+  "target": "Q1385927",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1039095:Q11650648",
+  "source": "Q1039095",
+  "target": "Q11650648",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1039095:Q3138980",
+  "source": "Q1039095",
+  "target": "Q3138980",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1041434:Q1064935",
+  "source": "Q1041434",
+  "target": "Q1064935",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1045763:Q1046230",
+  "source": "Q1045763",
+  "target": "Q1046230",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1045763:Q6993673",
+  "source": "Q1045763",
+  "target": "Q6993673",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1046230:Q319664",
+  "source": "Q1046230",
+  "target": "Q319664",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10514629:Q844035",
+  "source": "Q10514629",
+  "target": "Q844035",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10514752:Q8514957",
+  "source": "Q10514752",
+  "target": "Q8514957",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10514763:Q10514752",
+  "source": "Q10514763",
+  "target": "Q10514752",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10514826:Q97229426",
+  "source": "Q10514826",
+  "target": "Q97229426",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10514832:Q10517065",
+  "source": "Q10514832",
+  "target": "Q10517065",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10517065:Q8515325",
+  "source": "Q10517065",
+  "target": "Q8515325",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10517111:Q58139879",
+  "source": "Q10517111",
+  "target": "Q58139879",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10517111:Q6959827",
+  "source": "Q10517111",
+  "target": "Q6959827",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10517132:Q8514945",
+  "source": "Q10517132",
+  "target": "Q8514945",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10517485:Q111027719",
+  "source": "Q10517485",
+  "target": "Q111027719",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10520501:Q8515533",
+  "source": "Q10520501",
+  "target": "Q8515533",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10522052:Q11520007",
+  "source": "Q10522052",
+  "target": "Q11520007",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10522159:Q10522052",
+  "source": "Q10522159",
+  "target": "Q10522052",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1052955:Q665518",
+  "source": "Q1052955",
+  "target": "Q665518",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10565449:Q8013925",
+  "source": "Q10565449",
+  "target": "Q8013925",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10565568:Q6884877",
+  "source": "Q10565568",
+  "target": "Q6884877",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10565568:Q8514921",
+  "source": "Q10565568",
+  "target": "Q8514921",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1062738:Q5368978",
+  "source": "Q1062738",
+  "target": "Q5368978",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106313735:Q109658416",
+  "source": "Q106313735",
+  "target": "Q109658416",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1064935:Q171977",
+  "source": "Q1064935",
+  "target": "Q171977",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1064935:Q6959828",
+  "source": "Q1064935",
+  "target": "Q6959828",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106678455:Q18235826",
+  "source": "Q106678455",
+  "target": "Q18235826",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106679747:Q106679764",
+  "source": "Q106679747",
+  "target": "Q106679764",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106679764:Q106680073",
+  "source": "Q106679764",
+  "target": "Q106680073",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106680073:Q106680332",
+  "source": "Q106680073",
+  "target": "Q106680332",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106680073:Q1188498",
+  "source": "Q106680073",
+  "target": "Q1188498",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106680332:Q1188498",
+  "source": "Q106680332",
+  "target": "Q1188498",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106701773:Q11644204",
+  "source": "Q106701773",
+  "target": "Q11644204",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106702943:Q106702997",
+  "source": "Q106702943",
+  "target": "Q106702997",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q106702997:Q1132756",
+  "source": "Q106702997",
+  "target": "Q1132756",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1067546:Q11557437",
+  "source": "Q1067546",
+  "target": "Q11557437",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1067546:Q761596",
+  "source": "Q1067546",
+  "target": "Q761596",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1069843:Q8513830",
+  "source": "Q1069843",
+  "target": "Q8513830",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729324:Q3181451",
+  "source": "Q10729324",
+  "target": "Q3181451",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729393:Q10729324",
+  "source": "Q10729393",
+  "target": "Q10729324",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729463:Q10729501",
+  "source": "Q10729463",
+  "target": "Q10729501",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729483:Q10729497",
+  "source": "Q10729483",
+  "target": "Q10729497",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729483:Q8515098",
+  "source": "Q10729483",
+  "target": "Q8515098",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729497:Q8515003",
+  "source": "Q10729497",
+  "target": "Q8515003",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10729498:Q6788057",
+  "source": "Q10729498",
+  "target": "Q6788057",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q107395:Q8515448",
+  "source": "Q107395",
+  "target": "Q8515448",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108453479:Q6959828",
+  "source": "Q108453479",
+  "target": "Q6959828",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108456336:Q108456388",
+  "source": "Q108456336",
+  "target": "Q108456388",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108456388:Q11463419",
+  "source": "Q108456388",
+  "target": "Q11463419",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10856544:Q10859958",
+  "source": "Q10856544",
+  "target": "Q10859958",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10856562:Q8192119",
+  "source": "Q10856562",
+  "target": "Q8192119",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10856563:Q10859957",
+  "source": "Q10856563",
+  "target": "Q10859957",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10859957:Q907127",
+  "source": "Q10859957",
+  "target": "Q907127",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10859958:Q10859971",
+  "source": "Q10859958",
+  "target": "Q10859971",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10859971:Q108456336",
+  "source": "Q10859971",
+  "target": "Q108456336",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10860030:Q18225905",
+  "source": "Q10860030",
+  "target": "Q18225905",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10862140:Q6832332",
+  "source": "Q10862140",
+  "target": "Q6832332",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108780773:Q109357699",
+  "source": "Q108780773",
+  "target": "Q109357699",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108781605:Q11069434",
+  "source": "Q108781605",
+  "target": "Q11069434",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108803099:Q108803101",
+  "source": "Q108803099",
+  "target": "Q108803101",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108803101:Q124483501",
+  "source": "Q108803101",
+  "target": "Q124483501",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10882408:Q10514763",
+  "source": "Q10882408",
+  "target": "Q10514763",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885144:Q10885152",
+  "source": "Q10885144",
+  "target": "Q10885152",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885144:Q8514097",
+  "source": "Q10885144",
+  "target": "Q8514097",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885145:Q5227551",
+  "source": "Q10885145",
+  "target": "Q5227551",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885147:Q10885145",
+  "source": "Q10885147",
+  "target": "Q10885145",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885148:Q10885147",
+  "source": "Q10885148",
+  "target": "Q10885147",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885149:Q10885153",
+  "source": "Q10885149",
+  "target": "Q10885153",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885150:Q11466985",
+  "source": "Q10885150",
+  "target": "Q11466985",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885152:Q10885150",
+  "source": "Q10885152",
+  "target": "Q10885150",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q10885153:Q10885148",
+  "source": "Q10885153",
+  "target": "Q10885148",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108910742:Q108910746",
+  "source": "Q108910742",
+  "target": "Q108910746",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108910746:Q11668788",
+  "source": "Q108910746",
+  "target": "Q11668788",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108913831:Q11582548",
+  "source": "Q108913831",
+  "target": "Q11582548",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108913851:Q108913857",
+  "source": "Q108913851",
+  "target": "Q108913857",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q108913857:Q108913831",
+  "source": "Q108913857",
+  "target": "Q108913831",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109116406:Q109116467",
+  "source": "Q109116406",
+  "target": "Q109116467",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109116467:Q109116522",
+  "source": "Q109116467",
+  "target": "Q109116522",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109116522:Q11621359",
+  "source": "Q109116522",
+  "target": "Q11621359",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109122992:Q109123063",
+  "source": "Q109122992",
+  "target": "Q109123063",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109123063:Q110069083",
+  "source": "Q109123063",
+  "target": "Q110069083",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109131772:Q11668786",
+  "source": "Q109131772",
+  "target": "Q11668786",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109183432:Q8514503",
+  "source": "Q109183432",
+  "target": "Q8514503",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109357699:Q8515475",
+  "source": "Q109357699",
+  "target": "Q8515475",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109658416:Q6788063",
+  "source": "Q109658416",
+  "target": "Q6788063",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109679023:Q1062738",
+  "source": "Q109679023",
+  "target": "Q1062738",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109921380:Q109921507",
+  "source": "Q109921380",
+  "target": "Q109921507",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109921507:Q110946608",
+  "source": "Q109921507",
+  "target": "Q110946608",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q109966601:Q110843510",
+  "source": "Q109966601",
+  "target": "Q110843510",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q110069083:Q11107033",
+  "source": "Q110069083",
+  "target": "Q11107033",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q110069083:Q20042364",
+  "source": "Q110069083",
+  "target": "Q20042364",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q110249784:Q4352518",
+  "source": "Q110249784",
+  "target": "Q4352518",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11067901:Q8515314",
+  "source": "Q11067901",
+  "target": "Q8515314",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11067929:Q8515303",
+  "source": "Q11067929",
+  "target": "Q8515303",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069413:Q11069832",
+  "source": "Q11069413",
+  "target": "Q11069832",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069420:Q108781605",
+  "source": "Q11069420",
+  "target": "Q108781605",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069434:Q11069450",
+  "source": "Q11069434",
+  "target": "Q11069450",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069450:Q11069413",
+  "source": "Q11069450",
+  "target": "Q11069413",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069766:Q8515039",
+  "source": "Q11069766",
+  "target": "Q8515039",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069832:Q11069766",
+  "source": "Q11069832",
+  "target": "Q11069766",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11069907:Q8515021",
+  "source": "Q11069907",
+  "target": "Q8515021",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11070231:Q11070324",
+  "source": "Q11070231",
+  "target": "Q11070324",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11070264:Q11070306",
+  "source": "Q11070264",
+  "target": "Q11070306",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11070291:Q8515365",
+  "source": "Q11070291",
+  "target": "Q8515365",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11070306:Q11070231",
+  "source": "Q11070306",
+  "target": "Q11070231",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11070324:Q8081728",
+  "source": "Q11070324",
+  "target": "Q8081728",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q110821707:Q8514040",
+  "source": "Q110821707",
+  "target": "Q8514040",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q110843510:Q11368676",
+  "source": "Q110843510",
+  "target": "Q11368676",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11093359:Q467417",
+  "source": "Q11093359",
+  "target": "Q467417",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q110946608:Q11423372",
+  "source": "Q110946608",
+  "target": "Q11423372",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q111012567:Q11539687",
+  "source": "Q111012567",
+  "target": "Q11539687",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q111012567:Q11539716",
+  "source": "Q111012567",
+  "target": "Q11539716",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q111012567:Q11540416",
+  "source": "Q111012567",
+  "target": "Q11540416",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q111024400:Q11530406",
+  "source": "Q111024400",
+  "target": "Q11530406",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q111027719:Q6527782",
+  "source": "Q111027719",
+  "target": "Q6527782",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11107033:Q110249784",
+  "source": "Q11107033",
+  "target": "Q110249784",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q111191156:Q8514697",
+  "source": "Q111191156",
+  "target": "Q8514697",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11162249:Q6529823",
+  "source": "Q11162249",
+  "target": "Q6529823",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q112045901:Q112045908",
+  "source": "Q112045901",
+  "target": "Q112045908",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q112045908:Q10862140",
+  "source": "Q112045908",
+  "target": "Q10862140",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239086:Q11239084",
+  "source": "Q11239086",
+  "target": "Q11239084",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239089:Q846169",
+  "source": "Q11239089",
+  "target": "Q846169",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239108:Q11069420",
+  "source": "Q11239108",
+  "target": "Q11069420",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239108:Q11239118",
+  "source": "Q11239108",
+  "target": "Q11239118",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239108:Q11530578",
+  "source": "Q11239108",
+  "target": "Q11530578",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239114:Q106313735",
+  "source": "Q11239114",
+  "target": "Q106313735",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239114:Q11239171",
+  "source": "Q11239114",
+  "target": "Q11239171",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239114:Q11530370",
+  "source": "Q11239114",
+  "target": "Q11530370",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239118:Q1041434",
+  "source": "Q11239118",
+  "target": "Q1041434",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239138:Q11530506",
+  "source": "Q11239138",
+  "target": "Q11530506",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239143:Q111024400",
+  "source": "Q11239143",
+  "target": "Q111024400",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239143:Q11239086",
+  "source": "Q11239143",
+  "target": "Q11239086",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239151:Q11239114",
+  "source": "Q11239151",
+  "target": "Q11239114",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239157:Q6638299",
+  "source": "Q11239157",
+  "target": "Q6638299",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239162:Q11239159",
+  "source": "Q11239162",
+  "target": "Q11239159",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239164:Q5368670",
+  "source": "Q11239164",
+  "target": "Q5368670",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239167:Q11239164",
+  "source": "Q11239167",
+  "target": "Q11239164",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239169:Q106701773",
+  "source": "Q11239169",
+  "target": "Q106701773",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239169:Q11239114",
+  "source": "Q11239169",
+  "target": "Q11239114",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239169:Q11239151",
+  "source": "Q11239169",
+  "target": "Q11239151",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239171:Q11239108",
+  "source": "Q11239171",
+  "target": "Q11239108",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11239190:Q8514279",
+  "source": "Q11239190",
+  "target": "Q8514279",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11255668:Q7849971",
+  "source": "Q11255668",
+  "target": "Q7849971",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11255683:Q7849985",
+  "source": "Q11255683",
+  "target": "Q7849985",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11255695:Q11255683",
+  "source": "Q11255695",
+  "target": "Q11255683",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1130929:Q5324923",
+  "source": "Q1130929",
+  "target": "Q5324923",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q113232056:Q113232073",
+  "source": "Q113232056",
+  "target": "Q113232073",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q113232073:Q10517111",
+  "source": "Q113232073",
+  "target": "Q10517111",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q113244807:Q8513874",
+  "source": "Q113244807",
+  "target": "Q8513874",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q113244841:Q8515943",
+  "source": "Q113244841",
+  "target": "Q8515943",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1132756:Q11644074",
+  "source": "Q1132756",
+  "target": "Q11644074",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1133680:Q3299364",
+  "source": "Q1133680",
+  "target": "Q3299364",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1133680:Q6638460",
+  "source": "Q1133680",
+  "target": "Q6638460",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1133798:Q1071525",
+  "source": "Q1133798",
+  "target": "Q1071525",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1133798:Q11474331",
+  "source": "Q1133798",
+  "target": "Q11474331",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1133798:Q8514797",
+  "source": "Q1133798",
+  "target": "Q8514797",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11356148:Q11380800",
+  "source": "Q11356148",
+  "target": "Q11380800",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11359143:Q8514736",
+  "source": "Q11359143",
+  "target": "Q8514736",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11359143:Q8514745",
+  "source": "Q11359143",
+  "target": "Q8514745",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11359172:Q11383421",
+  "source": "Q11359172",
+  "target": "Q11383421",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1136186:Q843245",
+  "source": "Q1136186",
+  "target": "Q843245",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11368676:Q110821707",
+  "source": "Q11368676",
+  "target": "Q110821707",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11372330:Q8515354",
+  "source": "Q11372330",
+  "target": "Q8515354",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11373063:Q6036695",
+  "source": "Q11373063",
+  "target": "Q6036695",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11374444:Q11374451",
+  "source": "Q11374444",
+  "target": "Q11374451",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11374449:Q11374470",
+  "source": "Q11374449",
+  "target": "Q11374470",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11374451:Q11374450",
+  "source": "Q11374451",
+  "target": "Q11374450",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11374451:Q11374498",
+  "source": "Q11374451",
+  "target": "Q11374498",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11374470:Q11374446",
+  "source": "Q11374470",
+  "target": "Q11374446",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11374495:Q11374449",
+  "source": "Q11374495",
+  "target": "Q11374449",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380708:Q5227539",
+  "source": "Q11380708",
+  "target": "Q5227539",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380721:Q11380814",
+  "source": "Q11380721",
+  "target": "Q11380814",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380721:Q116151",
+  "source": "Q11380721",
+  "target": "Q116151",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380800:Q8514831",
+  "source": "Q11380800",
+  "target": "Q8514831",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380814:Q8514821",
+  "source": "Q11380814",
+  "target": "Q8514821",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380816:Q11380708",
+  "source": "Q11380816",
+  "target": "Q11380708",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11380816:Q8514091",
+  "source": "Q11380816",
+  "target": "Q8514091",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383418:Q8514527",
+  "source": "Q11383418",
+  "target": "Q8514527",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383421:Q11383423",
+  "source": "Q11383421",
+  "target": "Q11383423",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383423:Q11383453",
+  "source": "Q11383423",
+  "target": "Q11383453",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383441:Q8514473",
+  "source": "Q11383441",
+  "target": "Q8514473",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383447:Q1133798",
+  "source": "Q11383447",
+  "target": "Q1133798",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383449:Q8514486",
+  "source": "Q11383449",
+  "target": "Q8514486",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383453:Q11383467",
+  "source": "Q11383453",
+  "target": "Q11383467",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383459:Q11383449",
+  "source": "Q11383459",
+  "target": "Q11383449",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383465:Q11383447",
+  "source": "Q11383465",
+  "target": "Q11383447",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383467:Q11383465",
+  "source": "Q11383467",
+  "target": "Q11383465",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11383480:Q11383459",
+  "source": "Q11383480",
+  "target": "Q11383459",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11392586:Q8514230",
+  "source": "Q11392586",
+  "target": "Q8514230",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11394449:Q8514880",
+  "source": "Q11394449",
+  "target": "Q8514880",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11394459:Q8513870",
+  "source": "Q11394459",
+  "target": "Q8513870",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11399392:Q1069843",
+  "source": "Q11399392",
+  "target": "Q1069843",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11408512:Q8513978",
+  "source": "Q11408512",
+  "target": "Q8513978",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11413126:Q859759",
+  "source": "Q11413126",
+  "target": "Q859759",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414252:Q11414253",
+  "source": "Q11414252",
+  "target": "Q11414253",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414253:Q11414257",
+  "source": "Q11414253",
+  "target": "Q11414257",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414254:Q3132109",
+  "source": "Q11414254",
+  "target": "Q3132109",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414257:Q11414260",
+  "source": "Q11414257",
+  "target": "Q11414260",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414259:Q11414262",
+  "source": "Q11414259",
+  "target": "Q11414262",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414260:Q11414259",
+  "source": "Q11414260",
+  "target": "Q11414259",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11414262:Q11414254",
+  "source": "Q11414262",
+  "target": "Q11414254",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11423236:Q8514579",
+  "source": "Q11423236",
+  "target": "Q8514579",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11423269:Q11423236",
+  "source": "Q11423269",
+  "target": "Q11423236",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11423283:Q11423269",
+  "source": "Q11423283",
+  "target": "Q11423269",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11423372:Q11423374",
+  "source": "Q11423372",
+  "target": "Q11423374",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11423374:Q8514993",
+  "source": "Q11423374",
+  "target": "Q8514993",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11423540:Q8514867",
+  "source": "Q11423540",
+  "target": "Q8514867",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1142657:Q11547612",
+  "source": "Q1142657",
+  "target": "Q11547612",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427631:Q11427645",
+  "source": "Q11427631",
+  "target": "Q11427645",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427633:Q11427637",
+  "source": "Q11427633",
+  "target": "Q11427637",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427634:Q1631219",
+  "source": "Q11427634",
+  "target": "Q1631219",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427639:Q8514085",
+  "source": "Q11427639",
+  "target": "Q8514085",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427640:Q910241",
+  "source": "Q11427640",
+  "target": "Q910241",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427642:Q8515546",
+  "source": "Q11427642",
+  "target": "Q8515546",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427645:Q8514861",
+  "source": "Q11427645",
+  "target": "Q8514861",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427649:Q8514827",
+  "source": "Q11427649",
+  "target": "Q8514827",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11427706:Q113244841",
+  "source": "Q11427706",
+  "target": "Q113244841",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11431967:Q869401",
+  "source": "Q11431967",
+  "target": "Q869401",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11432012:Q8081578",
+  "source": "Q11432012",
+  "target": "Q8081578",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1143534:Q6962458",
+  "source": "Q1143534",
+  "target": "Q6962458",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1143534:Q8513884",
+  "source": "Q1143534",
+  "target": "Q8513884",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1143534:Q8514003",
+  "source": "Q1143534",
+  "target": "Q8514003",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11436051:Q11436061",
+  "source": "Q11436051",
+  "target": "Q11436061",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11436057:Q8013567",
+  "source": "Q11436057",
+  "target": "Q8013567",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11436061:Q11436057",
+  "source": "Q11436061",
+  "target": "Q11436057",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11437025:Q6788056",
+  "source": "Q11437025",
+  "target": "Q6788056",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11437442:Q909029",
+  "source": "Q11437442",
+  "target": "Q909029",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11437715:Q8514897",
+  "source": "Q11437715",
+  "target": "Q8514897",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11445767:Q11445771",
+  "source": "Q11445767",
+  "target": "Q11445771",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11445771:Q8515360",
+  "source": "Q11445771",
+  "target": "Q8515360",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11445786:Q11445795",
+  "source": "Q11445786",
+  "target": "Q11445795",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11445792:Q11445786",
+  "source": "Q11445792",
+  "target": "Q11445786",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11445795:Q2635471",
+  "source": "Q11445795",
+  "target": "Q2635471",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11450824:Q4761544",
+  "source": "Q11450824",
+  "target": "Q4761544",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11450828:Q11450824",
+  "source": "Q11450828",
+  "target": "Q11450824",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11463419:Q8515344",
+  "source": "Q11463419",
+  "target": "Q8515344",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11464739:Q15839246",
+  "source": "Q11464739",
+  "target": "Q15839246",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11464741:Q11464739",
+  "source": "Q11464741",
+  "target": "Q11464739",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11466979:Q862949",
+  "source": "Q11466979",
+  "target": "Q862949",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11466985:Q11466979",
+  "source": "Q11466985",
+  "target": "Q11466979",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11474311:Q8514851",
+  "source": "Q11474311",
+  "target": "Q8514851",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11474331:Q8514544",
+  "source": "Q11474331",
+  "target": "Q8514544",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11476823:Q8013051",
+  "source": "Q11476823",
+  "target": "Q8013051",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11488736:Q11239169",
+  "source": "Q11488736",
+  "target": "Q11239169",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11515462:Q839377",
+  "source": "Q11515462",
+  "target": "Q839377",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11520007:Q135227837",
+  "source": "Q11520007",
+  "target": "Q135227837",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11520007:Q5370089",
+  "source": "Q11520007",
+  "target": "Q5370089",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11520027:Q8515496",
+  "source": "Q11520027",
+  "target": "Q8515496",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11520040:Q11093359",
+  "source": "Q11520040",
+  "target": "Q11093359",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11521627:Q11374495",
+  "source": "Q11521627",
+  "target": "Q11374495",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11528912:Q8514347",
+  "source": "Q11528912",
+  "target": "Q8514347",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11529311:Q141661268",
+  "source": "Q11529311",
+  "target": "Q141661268",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11529322:Q8514308",
+  "source": "Q11529322",
+  "target": "Q8514308",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11529322:Q8514331",
+  "source": "Q11529322",
+  "target": "Q8514331",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530346:Q7849987",
+  "source": "Q11530346",
+  "target": "Q7849987",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530346:Q8013532",
+  "source": "Q11530346",
+  "target": "Q8013532",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530355:Q11530346",
+  "source": "Q11530355",
+  "target": "Q11530346",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530361:Q6788052",
+  "source": "Q11530361",
+  "target": "Q6788052",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530367:Q112045901",
+  "source": "Q11530367",
+  "target": "Q112045901",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530370:Q11530469",
+  "source": "Q11530370",
+  "target": "Q11530469",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530371:Q6832369",
+  "source": "Q11530371",
+  "target": "Q6832369",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530406:Q11239089",
+  "source": "Q11530406",
+  "target": "Q11239089",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530411:Q8515055",
+  "source": "Q11530411",
+  "target": "Q8515055",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530469:Q115745935",
+  "source": "Q11530469",
+  "target": "Q115745935",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530506:Q11239123",
+  "source": "Q11530506",
+  "target": "Q11239123",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530566:Q11530568",
+  "source": "Q11530566",
+  "target": "Q11530568",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530566:Q846200",
+  "source": "Q11530566",
+  "target": "Q846200",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530568:Q569441",
+  "source": "Q11530568",
+  "target": "Q569441",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530578:Q118748430",
+  "source": "Q11530578",
+  "target": "Q118748430",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530600:Q11530361",
+  "source": "Q11530600",
+  "target": "Q11530361",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530608:Q11530625",
+  "source": "Q11530608",
+  "target": "Q11530625",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530618:Q5370070",
+  "source": "Q11530618",
+  "target": "Q5370070",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530625:Q11530411",
+  "source": "Q11530625",
+  "target": "Q11530411",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530629:Q11530657",
+  "source": "Q11530629",
+  "target": "Q11530657",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11530657:Q6998366",
+  "source": "Q11530657",
+  "target": "Q6998366",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11532522:Q11532527",
+  "source": "Q11532522",
+  "target": "Q11532527",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11532527:Q6092518",
+  "source": "Q11532527",
+  "target": "Q6092518",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11532530:Q8515466",
+  "source": "Q11532530",
+  "target": "Q8515466",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539147:Q11539154",
+  "source": "Q11539147",
+  "target": "Q11539154",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539154:Q11540411",
+  "source": "Q11539154",
+  "target": "Q11540411",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539360:Q11539363",
+  "source": "Q11539360",
+  "target": "Q11539363",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539363:Q11539147",
+  "source": "Q11539363",
+  "target": "Q11539147",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1153962:Q171411",
+  "source": "Q1153962",
+  "target": "Q171411",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539684:Q11539680",
+  "source": "Q11539684",
+  "target": "Q11539680",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539684:Q11539681",
+  "source": "Q11539684",
+  "target": "Q11539681",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539686:Q11539684",
+  "source": "Q11539686",
+  "target": "Q11539684",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539686:Q11539689",
+  "source": "Q11539686",
+  "target": "Q11539689",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539687:Q11539690",
+  "source": "Q11539687",
+  "target": "Q11539690",
+  "type": "blood",
+  "flags": [
+   "p40_only"
+  ]
+ },
+ {
+  "id": "blood:Q11539687:Q11539691",
+  "source": "Q11539687",
+  "target": "Q11539691",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539691:Q11539682",
+  "source": "Q11539691",
+  "target": "Q11539682",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11539691:Q11539686",
+  "source": "Q11539691",
+  "target": "Q11539686",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11540417:Q3335056",
+  "source": "Q11540417",
+  "target": "Q3335056",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11547548:Q11547629",
+  "source": "Q11547548",
+  "target": "Q11547629",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11547612:Q11547548",
+  "source": "Q11547612",
+  "target": "Q11547548",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11547613:Q11547631",
+  "source": "Q11547613",
+  "target": "Q11547631",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11547629:Q11547613",
+  "source": "Q11547629",
+  "target": "Q11547613",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11547631:Q8515291",
+  "source": "Q11547631",
+  "target": "Q8515291",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11556442:Q7849983",
+  "source": "Q11556442",
+  "target": "Q7849983",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11557318:Q2866311",
+  "source": "Q11557318",
+  "target": "Q2866311",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11557324:Q11557349",
+  "source": "Q11557324",
+  "target": "Q11557349",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11557349:Q10565568",
+  "source": "Q11557349",
+  "target": "Q10565568",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11557437:Q2866309",
+  "source": "Q11557437",
+  "target": "Q2866309",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115587141:Q138762701",
+  "source": "Q115587141",
+  "target": "Q138762701",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115587300:Q115587141",
+  "source": "Q115587300",
+  "target": "Q115587141",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115587375:Q115587395",
+  "source": "Q115587375",
+  "target": "Q115587395",
+  "type": "blood",
+  "flags": [
+   "p22_only"
+  ]
+ },
+ {
+  "id": "blood:Q115587395:Q76284446",
+  "source": "Q115587395",
+  "target": "Q76284446",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115596087:Q2900560",
+  "source": "Q115596087",
+  "target": "Q2900560",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115596096:Q109679023",
+  "source": "Q115596096",
+  "target": "Q109679023",
+  "type": "blood",
+  "flags": [
+   "p40_only"
+  ]
+ },
+ {
+  "id": "blood:Q1156545:Q859795",
+  "source": "Q1156545",
+  "target": "Q859795",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115745935:Q115587375",
+  "source": "Q115745935",
+  "target": "Q115587375",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11574929:Q5996119",
+  "source": "Q11574929",
+  "target": "Q5996119",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11582501:Q8514611",
+  "source": "Q11582501",
+  "target": "Q8514611",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11582519:Q11582547",
+  "source": "Q11582519",
+  "target": "Q11582547",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11582547:Q7559099",
+  "source": "Q11582547",
+  "target": "Q7559099",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11582548:Q11582519",
+  "source": "Q11582548",
+  "target": "Q11582519",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115852:Q11380721",
+  "source": "Q115852",
+  "target": "Q11380721",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115852:Q2948444",
+  "source": "Q115852",
+  "target": "Q2948444",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q115852:Q846370",
+  "source": "Q115852",
+  "target": "Q846370",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11586338:Q843977",
+  "source": "Q11586338",
+  "target": "Q843977",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11586338:Q8514079",
+  "source": "Q11586338",
+  "target": "Q8514079",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11595118:Q11595125",
+  "source": "Q11595118",
+  "target": "Q11595125",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11595125:Q1194899",
+  "source": "Q11595125",
+  "target": "Q1194899",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11604290:Q8515388",
+  "source": "Q11604290",
+  "target": "Q8515388",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605911:Q11605966",
+  "source": "Q11605911",
+  "target": "Q11605966",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605913:Q7849981",
+  "source": "Q11605913",
+  "target": "Q7849981",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605921:Q11605984",
+  "source": "Q11605921",
+  "target": "Q11605984",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605966:Q11605913",
+  "source": "Q11605966",
+  "target": "Q11605913",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605970:Q11605997",
+  "source": "Q11605970",
+  "target": "Q11605997",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605979:Q11605911",
+  "source": "Q11605979",
+  "target": "Q11605911",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605984:Q11605979",
+  "source": "Q11605984",
+  "target": "Q11605979",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11605997:Q11605921",
+  "source": "Q11605997",
+  "target": "Q11605921",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11608277:Q1153962",
+  "source": "Q11608277",
+  "target": "Q1153962",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11608311:Q8514715",
+  "source": "Q11608311",
+  "target": "Q8514715",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11608316:Q11608311",
+  "source": "Q11608316",
+  "target": "Q11608311",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11608449:Q11608316",
+  "source": "Q11608449",
+  "target": "Q11608316",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11608471:Q11608449",
+  "source": "Q11608471",
+  "target": "Q11608449",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q116151:Q11380816",
+  "source": "Q116151",
+  "target": "Q11380816",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q116151:Q5227536",
+  "source": "Q116151",
+  "target": "Q5227536",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q116151:Q8514102",
+  "source": "Q116151",
+  "target": "Q8514102",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11621359:Q11621369",
+  "source": "Q11621359",
+  "target": "Q11621369",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11621369:Q5368466",
+  "source": "Q11621369",
+  "target": "Q5368466",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11625926:Q10514629",
+  "source": "Q11625926",
+  "target": "Q10514629",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11644074:Q5367620",
+  "source": "Q11644074",
+  "target": "Q5367620",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11644074:Q8515152",
+  "source": "Q11644074",
+  "target": "Q8515152",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11644108:Q106702943",
+  "source": "Q11644108",
+  "target": "Q106702943",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11644188:Q8515157",
+  "source": "Q11644188",
+  "target": "Q8515157",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11644204:Q11644108",
+  "source": "Q11644204",
+  "target": "Q11644108",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11644228:Q8515226",
+  "source": "Q11644228",
+  "target": "Q8515226",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11647294:Q11647302",
+  "source": "Q11647294",
+  "target": "Q11647302",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11647300:Q8513845",
+  "source": "Q11647300",
+  "target": "Q8513845",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11647302:Q11647300",
+  "source": "Q11647302",
+  "target": "Q11647300",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650632:Q11650634",
+  "source": "Q11650632",
+  "target": "Q11650634",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650632:Q11650688",
+  "source": "Q11650632",
+  "target": "Q11650688",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650644:Q11650657",
+  "source": "Q11650644",
+  "target": "Q11650657",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650646:Q3080602",
+  "source": "Q11650646",
+  "target": "Q3080602",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650648:Q11650655",
+  "source": "Q11650648",
+  "target": "Q11650655",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650651:Q11650680",
+  "source": "Q11650651",
+  "target": "Q11650680",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650651:Q11650690",
+  "source": "Q11650651",
+  "target": "Q11650690",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650651:Q3334677",
+  "source": "Q11650651",
+  "target": "Q3334677",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650657:Q11650651",
+  "source": "Q11650657",
+  "target": "Q11650651",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650657:Q11650670",
+  "source": "Q11650657",
+  "target": "Q11650670",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650658:Q11650659",
+  "source": "Q11650658",
+  "target": "Q11650659",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650659:Q1039095",
+  "source": "Q11650659",
+  "target": "Q1039095",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650663:Q11650666",
+  "source": "Q11650663",
+  "target": "Q11650666",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650663:Q11650669",
+  "source": "Q11650663",
+  "target": "Q11650669",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650664:Q11650691",
+  "source": "Q11650664",
+  "target": "Q11650691",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650665:Q11650661",
+  "source": "Q11650665",
+  "target": "Q11650661",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650669:Q11650665",
+  "source": "Q11650669",
+  "target": "Q11650665",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650669:Q11650684",
+  "source": "Q11650669",
+  "target": "Q11650684",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650676:Q11650677",
+  "source": "Q11650676",
+  "target": "Q11650677",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650677:Q11650664",
+  "source": "Q11650677",
+  "target": "Q11650664",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650680:Q705147",
+  "source": "Q11650680",
+  "target": "Q705147",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650687:Q11650632",
+  "source": "Q11650687",
+  "target": "Q11650632",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11650688:Q11650663",
+  "source": "Q11650688",
+  "target": "Q11650663",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11651869:Q2102247",
+  "source": "Q11651869",
+  "target": "Q2102247",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11655794:Q11655795",
+  "source": "Q11655794",
+  "target": "Q11655795",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11655795:Q11540417",
+  "source": "Q11655795",
+  "target": "Q11540417",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11655797:Q11655794",
+  "source": "Q11655797",
+  "target": "Q11655794",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11668786:Q108910742",
+  "source": "Q11668786",
+  "target": "Q108910742",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11668788:Q11383480",
+  "source": "Q11668788",
+  "target": "Q11383480",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11670107:Q8515415",
+  "source": "Q11670107",
+  "target": "Q8515415",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q11678642:Q7849967",
+  "source": "Q11678642",
+  "target": "Q7849967",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q118747079:Q1052955",
+  "source": "Q118747079",
+  "target": "Q1052955",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q118748430:Q115587300",
+  "source": "Q118748430",
+  "target": "Q115587300",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1188498:Q871566",
+  "source": "Q1188498",
+  "target": "Q871566",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q124483501:Q11520040",
+  "source": "Q124483501",
+  "target": "Q11520040",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q128865475:Q3538594",
+  "source": "Q128865475",
+  "target": "Q3538594",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q128865478:Q128865475",
+  "source": "Q128865478",
+  "target": "Q128865475",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q128865484:Q128865478",
+  "source": "Q128865484",
+  "target": "Q128865478",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1323770:Q6638511",
+  "source": "Q1323770",
+  "target": "Q6638511",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1323770:Q930282",
+  "source": "Q1323770",
+  "target": "Q930282",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q132435905:Q6526602",
+  "source": "Q132435905",
+  "target": "Q6526602",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q134546458:Q8514195",
+  "source": "Q134546458",
+  "target": "Q8514195",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q134615750:Q11445792",
+  "source": "Q134615750",
+  "target": "Q11445792",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q135227837:Q8516032",
+  "source": "Q135227837",
+  "target": "Q8516032",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1371657:Q8012693",
+  "source": "Q1371657",
+  "target": "Q8012693",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1371657:Q8513836",
+  "source": "Q1371657",
+  "target": "Q8513836",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1376605:Q8514762",
+  "source": "Q1376605",
+  "target": "Q8514762",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1385927:Q11551932",
+  "source": "Q1385927",
+  "target": "Q11551932",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1385927:Q11552150",
+  "source": "Q1385927",
+  "target": "Q11552150",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q138762701:Q132435905",
+  "source": "Q138762701",
+  "target": "Q132435905",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141516492:Q11374444",
+  "source": "Q141516492",
+  "target": "Q11374444",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141516493:Q11374500",
+  "source": "Q141516493",
+  "target": "Q11374500",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141640638:Q6993673",
+  "source": "Q141640638",
+  "target": "Q6993673",
+  "type": "blood",
+  "flags": [
+   "p40_only"
+  ]
+ },
+ {
+  "id": "blood:Q141655378:Q8513920",
+  "source": "Q141655378",
+  "target": "Q8513920",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655379:Q8514396",
+  "source": "Q141655379",
+  "target": "Q8514396",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655380:Q8514057",
+  "source": "Q141655380",
+  "target": "Q8514057",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655382:Q8515279",
+  "source": "Q141655382",
+  "target": "Q8515279",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655383:Q8515285",
+  "source": "Q141655383",
+  "target": "Q8515285",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655384:Q8514175",
+  "source": "Q141655384",
+  "target": "Q8514175",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655385:Q8514224",
+  "source": "Q141655385",
+  "target": "Q8514224",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655386:Q8514273",
+  "source": "Q141655386",
+  "target": "Q8514273",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655387:Q8515454",
+  "source": "Q141655387",
+  "target": "Q8515454",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655388:Q8013604",
+  "source": "Q141655388",
+  "target": "Q8013604",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655389:Q8513952",
+  "source": "Q141655389",
+  "target": "Q8513952",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655390:Q8513946",
+  "source": "Q141655390",
+  "target": "Q8513946",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141655391:Q8515409",
+  "source": "Q141655391",
+  "target": "Q8515409",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q141661268:Q141655386",
+  "source": "Q141661268",
+  "target": "Q141655386",
+  "type": "blood",
+  "flags": [
+   "p40_only"
+  ]
+ },
+ {
+  "id": "blood:Q15839246:Q11650658",
+  "source": "Q15839246",
+  "target": "Q11650658",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1631219:Q1631220",
+  "source": "Q1631219",
+  "target": "Q1631220",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1631219:Q936047",
+  "source": "Q1631219",
+  "target": "Q936047",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q1631220:Q11427631",
+  "source": "Q1631220",
+  "target": "Q11427631",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171411:Q3044815",
+  "source": "Q171411",
+  "target": "Q3044815",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q17192646:Q11450828",
+  "source": "Q17192646",
+  "target": "Q11450828",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q17192875:Q1036482",
+  "source": "Q17192875",
+  "target": "Q1036482",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q1045763",
+  "source": "Q171977",
+  "target": "Q1045763",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q1130929",
+  "source": "Q171977",
+  "target": "Q1130929",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q1133267",
+  "source": "Q171977",
+  "target": "Q1133267",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q1133680",
+  "source": "Q171977",
+  "target": "Q1133680",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q1136186",
+  "source": "Q171977",
+  "target": "Q1136186",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q314464",
+  "source": "Q171977",
+  "target": "Q314464",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q171977:Q837867",
+  "source": "Q171977",
+  "target": "Q837867",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q18225905:Q18225912",
+  "source": "Q18225905",
+  "target": "Q18225912",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q18225912:Q10856563",
+  "source": "Q18225912",
+  "target": "Q10856563",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q18235826:Q1067546",
+  "source": "Q18235826",
+  "target": "Q1067546",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q20042364:Q110249784",
+  "source": "Q20042364",
+  "target": "Q110249784",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2102247:Q6958482",
+  "source": "Q2102247",
+  "target": "Q6958482",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q22124765:Q11423283",
+  "source": "Q22124765",
+  "target": "Q11423283",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q22130053:Q11488736",
+  "source": "Q22130053",
+  "target": "Q11488736",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q23986622:Q8514212",
+  "source": "Q23986622",
+  "target": "Q8514212",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2439046:Q284038",
+  "source": "Q2439046",
+  "target": "Q284038",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2625556:Q311183",
+  "source": "Q2625556",
+  "target": "Q311183",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2635471:Q11445767",
+  "source": "Q2635471",
+  "target": "Q11445767",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2635471:Q6788072",
+  "source": "Q2635471",
+  "target": "Q6788072",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q284038:Q10729424",
+  "source": "Q284038",
+  "target": "Q10729424",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2866309:Q3335080",
+  "source": "Q2866309",
+  "target": "Q3335080",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2866311:Q2866313",
+  "source": "Q2866311",
+  "target": "Q2866313",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2866313:Q11557324",
+  "source": "Q2866313",
+  "target": "Q11557324",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2900560:Q109966601",
+  "source": "Q2900560",
+  "target": "Q109966601",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2900560:Q909763",
+  "source": "Q2900560",
+  "target": "Q909763",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2948444:Q8514073",
+  "source": "Q2948444",
+  "target": "Q8514073",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q2975848:Q5368702",
+  "source": "Q2975848",
+  "target": "Q5368702",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3044815:Q11608471",
+  "source": "Q3044815",
+  "target": "Q11608471",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3080602:Q11650644",
+  "source": "Q3080602",
+  "target": "Q11650644",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q311183:Q115852",
+  "source": "Q311183",
+  "target": "Q115852",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q311183:Q8514136",
+  "source": "Q311183",
+  "target": "Q8514136",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3132109:Q8514773",
+  "source": "Q3132109",
+  "target": "Q8514773",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3137467:Q1143534",
+  "source": "Q3137467",
+  "target": "Q1143534",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3138980:Q11650646",
+  "source": "Q3138980",
+  "target": "Q11650646",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3138980:Q11650676",
+  "source": "Q3138980",
+  "target": "Q11650676",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3138980:Q6956818",
+  "source": "Q3138980",
+  "target": "Q6956818",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q314464:Q837236",
+  "source": "Q314464",
+  "target": "Q837236",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q319664:Q2439046",
+  "source": "Q319664",
+  "target": "Q2439046",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3208958:Q8515320",
+  "source": "Q3208958",
+  "target": "Q8515320",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3275929:Q8515491",
+  "source": "Q3275929",
+  "target": "Q8515491",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3299364:Q11530629",
+  "source": "Q3299364",
+  "target": "Q11530629",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3331296:Q318178",
+  "source": "Q3331296",
+  "target": "Q318178",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3334677:Q6956825",
+  "source": "Q3334677",
+  "target": "Q6956825",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3335052:Q3335053",
+  "source": "Q3335052",
+  "target": "Q3335053",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3335080:Q2866316",
+  "source": "Q3335080",
+  "target": "Q2866316",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3530227:Q10862124",
+  "source": "Q3530227",
+  "target": "Q10862124",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3530488:Q3331296",
+  "source": "Q3530488",
+  "target": "Q3331296",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3538594:Q8515122",
+  "source": "Q3538594",
+  "target": "Q8515122",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q3538594:Q8515128",
+  "source": "Q3538594",
+  "target": "Q8515128",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q386144:Q11070264",
+  "source": "Q386144",
+  "target": "Q11070264",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q399755:Q11239147",
+  "source": "Q399755",
+  "target": "Q11239147",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q399755:Q8515140",
+  "source": "Q399755",
+  "target": "Q8515140",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q4352518:Q6013267",
+  "source": "Q4352518",
+  "target": "Q6013267",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q467417:Q3275929",
+  "source": "Q467417",
+  "target": "Q3275929",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q4701233:Q4701235",
+  "source": "Q4701233",
+  "target": "Q4701235",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q4701235:Q8514679",
+  "source": "Q4701235",
+  "target": "Q8514679",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q4761544:Q4761546",
+  "source": "Q4761544",
+  "target": "Q4761546",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q4761546:Q4701233",
+  "source": "Q4761546",
+  "target": "Q4701233",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q521070:Q6635833",
+  "source": "Q521070",
+  "target": "Q6635833",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q521070:Q6635992",
+  "source": "Q521070",
+  "target": "Q6635992",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5227524:Q2625556",
+  "source": "Q5227524",
+  "target": "Q2625556",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5227536:Q846378",
+  "source": "Q5227536",
+  "target": "Q846378",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5227543:Q5227519",
+  "source": "Q5227543",
+  "target": "Q5227519",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5227543:Q5227540",
+  "source": "Q5227543",
+  "target": "Q5227540",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5227551:Q5227524",
+  "source": "Q5227551",
+  "target": "Q5227524",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5324923:Q399755",
+  "source": "Q5324923",
+  "target": "Q399755",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5367620:Q8515163",
+  "source": "Q5367620",
+  "target": "Q8515163",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5367620:Q8515187",
+  "source": "Q5367620",
+  "target": "Q8515187",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5367620:Q8515264",
+  "source": "Q5367620",
+  "target": "Q8515264",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5368466:Q842016",
+  "source": "Q5368466",
+  "target": "Q842016",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5368670:Q8515117",
+  "source": "Q5368670",
+  "target": "Q8515117",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5368702:Q8515146",
+  "source": "Q5368702",
+  "target": "Q8515146",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5368867:Q8514153",
+  "source": "Q5368867",
+  "target": "Q8514153",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5368978:Q8515268",
+  "source": "Q5368978",
+  "target": "Q8515268",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5370076:Q8514709",
+  "source": "Q5370076",
+  "target": "Q8514709",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5520435:Q8513818",
+  "source": "Q5520435",
+  "target": "Q8513818",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5520435:Q8513824",
+  "source": "Q5520435",
+  "target": "Q8513824",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q56348388:Q1371657",
+  "source": "Q56348388",
+  "target": "Q1371657",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q569441:Q844093",
+  "source": "Q569441",
+  "target": "Q844093",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q57887765:Q11431967",
+  "source": "Q57887765",
+  "target": "Q11431967",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q58139879:Q10514826",
+  "source": "Q58139879",
+  "target": "Q10514826",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q5892511:Q10522159",
+  "source": "Q5892511",
+  "target": "Q10522159",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6013267:Q6013288",
+  "source": "Q6013267",
+  "target": "Q6013288",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6013274:Q11596955",
+  "source": "Q6013274",
+  "target": "Q11596955",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6013288:Q6013274",
+  "source": "Q6013288",
+  "target": "Q6013274",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6036682:Q6036685",
+  "source": "Q6036682",
+  "target": "Q6036685",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6036685:Q8013036",
+  "source": "Q6036685",
+  "target": "Q8013036",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6092518:Q8515433",
+  "source": "Q6092518",
+  "target": "Q8515433",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q60986486:Q57887765",
+  "source": "Q60986486",
+  "target": "Q57887765",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6448555:Q6448558",
+  "source": "Q6448555",
+  "target": "Q6448558",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6448558:Q11521627",
+  "source": "Q6448558",
+  "target": "Q11521627",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6526165:Q8012981",
+  "source": "Q6526165",
+  "target": "Q8012981",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6527504:Q6526165",
+  "source": "Q6527504",
+  "target": "Q6526165",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6527504:Q8013299",
+  "source": "Q6527504",
+  "target": "Q8013299",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6527782:Q11067929",
+  "source": "Q6527782",
+  "target": "Q11067929",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6529823:Q6529850",
+  "source": "Q6529823",
+  "target": "Q6529850",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6635833:Q6635782",
+  "source": "Q6635833",
+  "target": "Q6635782",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6635833:Q6635794",
+  "source": "Q6635833",
+  "target": "Q6635794",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6635833:Q6635851",
+  "source": "Q6635833",
+  "target": "Q6635851",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6635997:Q6635805",
+  "source": "Q6635997",
+  "target": "Q6635805",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6636007:Q521070",
+  "source": "Q6636007",
+  "target": "Q521070",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6636998:Q11239162",
+  "source": "Q6636998",
+  "target": "Q11239162",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6637949:Q10729371",
+  "source": "Q6637949",
+  "target": "Q10729371",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638044:Q11239141",
+  "source": "Q6638044",
+  "target": "Q11239141",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638055:Q11239157",
+  "source": "Q6638055",
+  "target": "Q11239157",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638114:Q6637949",
+  "source": "Q6638114",
+  "target": "Q6637949",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638114:Q6638400",
+  "source": "Q6638114",
+  "target": "Q6638400",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638299:Q11239153",
+  "source": "Q6638299",
+  "target": "Q11239153",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638400:Q6638055",
+  "source": "Q6638400",
+  "target": "Q6638055",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638460:Q6637970",
+  "source": "Q6638460",
+  "target": "Q6637970",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6638460:Q6638114",
+  "source": "Q6638460",
+  "target": "Q6638114",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q665518:Q846206",
+  "source": "Q665518",
+  "target": "Q846206",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6788051:Q11530355",
+  "source": "Q6788051",
+  "target": "Q11530355",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6788052:Q6788051",
+  "source": "Q6788052",
+  "target": "Q6788051",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6788056:Q11530600",
+  "source": "Q6788056",
+  "target": "Q11530600",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6788057:Q10729463",
+  "source": "Q6788057",
+  "target": "Q10729463",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6788063:Q11530618",
+  "source": "Q6788063",
+  "target": "Q11530618",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6788072:Q11239138",
+  "source": "Q6788072",
+  "target": "Q11239138",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6832220:Q11530371",
+  "source": "Q6832220",
+  "target": "Q11530371",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6832237:Q8514926",
+  "source": "Q6832237",
+  "target": "Q8514926",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6832332:Q6832237",
+  "source": "Q6832332",
+  "target": "Q6832237",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6832369:Q11530367",
+  "source": "Q6832369",
+  "target": "Q11530367",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6884877:Q10514832",
+  "source": "Q6884877",
+  "target": "Q10514832",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6884877:Q2975848",
+  "source": "Q6884877",
+  "target": "Q2975848",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6956818:Q11650687",
+  "source": "Q6956818",
+  "target": "Q11650687",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6958349:Q3335052",
+  "source": "Q6958349",
+  "target": "Q3335052",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6958482:Q1376605",
+  "source": "Q6958482",
+  "target": "Q1376605",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6959827:Q8010346",
+  "source": "Q6959827",
+  "target": "Q8010346",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6959828:Q11394459",
+  "source": "Q6959828",
+  "target": "Q11394459",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6992919:Q8514931",
+  "source": "Q6992919",
+  "target": "Q8514931",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6992919:Q8514969",
+  "source": "Q6992919",
+  "target": "Q8514969",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6993442:Q3530488",
+  "source": "Q6993442",
+  "target": "Q3530488",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6993442:Q6992919",
+  "source": "Q6993442",
+  "target": "Q6992919",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6993673:Q6993442",
+  "source": "Q6993673",
+  "target": "Q6993442",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6998193:Q11530566",
+  "source": "Q6998193",
+  "target": "Q11530566",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6998193:Q728162",
+  "source": "Q6998193",
+  "target": "Q728162",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q6998366:Q843627",
+  "source": "Q6998366",
+  "target": "Q843627",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7041869:Q7041862",
+  "source": "Q7041869",
+  "target": "Q7041862",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7201026:Q846375",
+  "source": "Q7201026",
+  "target": "Q846375",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q728162:Q1323770",
+  "source": "Q728162",
+  "target": "Q1323770",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7559099:Q7559115",
+  "source": "Q7559099",
+  "target": "Q7559115",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7559115:Q8514593",
+  "source": "Q7559115",
+  "target": "Q8514593",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q761596:Q11557318",
+  "source": "Q761596",
+  "target": "Q11557318",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q76284446:Q8515117",
+  "source": "Q76284446",
+  "target": "Q8515117",
+  "type": "blood",
+  "flags": [
+   "p40_only"
+  ]
+ },
+ {
+  "id": "blood:Q7849967:Q7849984",
+  "source": "Q7849967",
+  "target": "Q7849984",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7849971:Q7849978",
+  "source": "Q7849971",
+  "target": "Q7849978",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7849975:Q11255668",
+  "source": "Q7849975",
+  "target": "Q11255668",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7849976:Q11255695",
+  "source": "Q7849976",
+  "target": "Q11255695",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7849976:Q7849975",
+  "source": "Q7849976",
+  "target": "Q7849975",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7849978:Q7849974",
+  "source": "Q7849978",
+  "target": "Q7849974",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q7849985:Q7849979",
+  "source": "Q7849985",
+  "target": "Q7849979",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8010346:Q8514891",
+  "source": "Q8010346",
+  "target": "Q8514891",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8013051:Q109957",
+  "source": "Q8013051",
+  "target": "Q109957",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8013051:Q11162249",
+  "source": "Q8013051",
+  "target": "Q11162249",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8013088:Q7041869",
+  "source": "Q8013088",
+  "target": "Q7041869",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8013925:Q8012956",
+  "source": "Q8013925",
+  "target": "Q8012956",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8081570:Q11432012",
+  "source": "Q8081570",
+  "target": "Q11432012",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8081570:Q11585808",
+  "source": "Q8081570",
+  "target": "Q11585808",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8081728:Q8081735",
+  "source": "Q8081728",
+  "target": "Q8081735",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8081735:Q11070291",
+  "source": "Q8081735",
+  "target": "Q11070291",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q81374207:Q10856339",
+  "source": "Q81374207",
+  "target": "Q10856339",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8192119:Q10856544",
+  "source": "Q8192119",
+  "target": "Q10856544",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8192119:Q8515976",
+  "source": "Q8192119",
+  "target": "Q8515976",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q837236:Q11239143",
+  "source": "Q837236",
+  "target": "Q11239143",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q837236:Q11286854",
+  "source": "Q837236",
+  "target": "Q11286854",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q837782:Q838192",
+  "source": "Q837782",
+  "target": "Q838192",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q838192:Q7849976",
+  "source": "Q838192",
+  "target": "Q7849976",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q839377:Q8514439",
+  "source": "Q839377",
+  "target": "Q8514439",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q842016:Q906580",
+  "source": "Q842016",
+  "target": "Q906580",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q843245:Q6636998",
+  "source": "Q843245",
+  "target": "Q6636998",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q843245:Q982743",
+  "source": "Q843245",
+  "target": "Q982743",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q843627:Q6998193",
+  "source": "Q843627",
+  "target": "Q6998193",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q844035:Q11239190",
+  "source": "Q844035",
+  "target": "Q11239190",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q844035:Q11529311",
+  "source": "Q844035",
+  "target": "Q11529311",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q846206:Q850933",
+  "source": "Q846206",
+  "target": "Q850933",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q846370:Q10885144",
+  "source": "Q846370",
+  "target": "Q10885144",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q846370:Q5227557",
+  "source": "Q846370",
+  "target": "Q5227557",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q846370:Q8514143",
+  "source": "Q846370",
+  "target": "Q8514143",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q846375:Q5227534",
+  "source": "Q846375",
+  "target": "Q5227534",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q846378:Q5227543",
+  "source": "Q846378",
+  "target": "Q5227543",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q847002:Q8514468",
+  "source": "Q847002",
+  "target": "Q8514468",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513870:Q8513864",
+  "source": "Q8513870",
+  "target": "Q8513864",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513874:Q8514914",
+  "source": "Q8513874",
+  "target": "Q8514914",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513884:Q8513878",
+  "source": "Q8513884",
+  "target": "Q8513878",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513901:Q8513962",
+  "source": "Q8513901",
+  "target": "Q8513962",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513907:Q8513913",
+  "source": "Q8513907",
+  "target": "Q8513913",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513913:Q8513895",
+  "source": "Q8513913",
+  "target": "Q8513895",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513913:Q8513934",
+  "source": "Q8513913",
+  "target": "Q8513934",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513920:Q8513890",
+  "source": "Q8513920",
+  "target": "Q8513890",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513940:Q8514408",
+  "source": "Q8513940",
+  "target": "Q8514408",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513962:Q8513940",
+  "source": "Q8513962",
+  "target": "Q8513940",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513978:Q8513986",
+  "source": "Q8513978",
+  "target": "Q8513986",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513978:Q8513991",
+  "source": "Q8513978",
+  "target": "Q8513991",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513991:Q8513926",
+  "source": "Q8513991",
+  "target": "Q8513926",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513991:Q8513967",
+  "source": "Q8513991",
+  "target": "Q8513967",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8513996:Q8514014",
+  "source": "Q8513996",
+  "target": "Q8514014",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514003:Q8513996",
+  "source": "Q8514003",
+  "target": "Q8513996",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514003:Q8514008",
+  "source": "Q8514003",
+  "target": "Q8514008",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514008:Q8513901",
+  "source": "Q8514008",
+  "target": "Q8513901",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514008:Q8514401",
+  "source": "Q8514008",
+  "target": "Q8514401",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514014:Q8513907",
+  "source": "Q8514014",
+  "target": "Q8513907",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514025:Q8514052",
+  "source": "Q8514025",
+  "target": "Q8514052",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514030:Q8013088",
+  "source": "Q8514030",
+  "target": "Q8013088",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514034:Q8514030",
+  "source": "Q8514034",
+  "target": "Q8514030",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514040:Q8514034",
+  "source": "Q8514040",
+  "target": "Q8514034",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514046:Q8514019",
+  "source": "Q8514046",
+  "target": "Q8514019",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514046:Q8514025",
+  "source": "Q8514046",
+  "target": "Q8514025",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514062:Q8514107",
+  "source": "Q8514062",
+  "target": "Q8514107",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514085:Q8514062",
+  "source": "Q8514085",
+  "target": "Q8514062",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514085:Q8514068",
+  "source": "Q8514085",
+  "target": "Q8514068",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514091:Q7201026",
+  "source": "Q8514091",
+  "target": "Q7201026",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514159:Q8514200",
+  "source": "Q8514159",
+  "target": "Q8514200",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514170:Q8514423",
+  "source": "Q8514170",
+  "target": "Q8514423",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514175:Q134546458",
+  "source": "Q8514175",
+  "target": "Q134546458",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514175:Q8514159",
+  "source": "Q8514175",
+  "target": "Q8514159",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514175:Q8514164",
+  "source": "Q8514175",
+  "target": "Q8514164",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514175:Q8514181",
+  "source": "Q8514175",
+  "target": "Q8514181",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514195:Q8514170",
+  "source": "Q8514195",
+  "target": "Q8514170",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514212:Q8514252",
+  "source": "Q8514212",
+  "target": "Q8514252",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514218:Q8514264",
+  "source": "Q8514218",
+  "target": "Q8514264",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514224:Q8514240",
+  "source": "Q8514224",
+  "target": "Q8514240",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514230:Q8514259",
+  "source": "Q8514230",
+  "target": "Q8514259",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514240:Q11392586",
+  "source": "Q8514240",
+  "target": "Q11392586",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514240:Q8514235",
+  "source": "Q8514240",
+  "target": "Q8514235",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514252:Q8514218",
+  "source": "Q8514252",
+  "target": "Q8514218",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514259:Q8514246",
+  "source": "Q8514259",
+  "target": "Q8514246",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514264:Q8514206",
+  "source": "Q8514264",
+  "target": "Q8514206",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514273:Q8514319",
+  "source": "Q8514273",
+  "target": "Q8514319",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514279:Q8514336",
+  "source": "Q8514279",
+  "target": "Q8514336",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514292:Q8514285",
+  "source": "Q8514292",
+  "target": "Q8514285",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514302:Q8514298",
+  "source": "Q8514302",
+  "target": "Q8514298",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514308:Q8514292",
+  "source": "Q8514308",
+  "target": "Q8514292",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514314:Q8514326",
+  "source": "Q8514314",
+  "target": "Q8514326",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514319:Q8514314",
+  "source": "Q8514319",
+  "target": "Q8514314",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514326:Q11529322",
+  "source": "Q8514326",
+  "target": "Q11529322",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514326:Q6788127",
+  "source": "Q8514326",
+  "target": "Q6788127",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514336:Q8514302",
+  "source": "Q8514336",
+  "target": "Q8514302",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514347:Q8514342",
+  "source": "Q8514347",
+  "target": "Q8514342",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514401:Q8513972",
+  "source": "Q8514401",
+  "target": "Q8513972",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514423:Q8514189",
+  "source": "Q8514423",
+  "target": "Q8514189",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514439:Q8514354",
+  "source": "Q8514439",
+  "target": "Q8514354",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514455:Q8514480",
+  "source": "Q8514455",
+  "target": "Q8514480",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514468:Q8514561",
+  "source": "Q8514468",
+  "target": "Q8514561",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514473:Q8514509",
+  "source": "Q8514473",
+  "target": "Q8514509",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514486:Q11383441",
+  "source": "Q8514486",
+  "target": "Q11383441",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514486:Q8514539",
+  "source": "Q8514486",
+  "target": "Q8514539",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514486:Q8514556",
+  "source": "Q8514486",
+  "target": "Q8514556",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514497:Q8514533",
+  "source": "Q8514497",
+  "target": "Q8514533",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514497:Q8514573",
+  "source": "Q8514497",
+  "target": "Q8514573",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514521:Q8514461",
+  "source": "Q8514521",
+  "target": "Q8514461",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514527:Q8514521",
+  "source": "Q8514527",
+  "target": "Q8514521",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514539:Q109183432",
+  "source": "Q8514539",
+  "target": "Q109183432",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514544:Q11383418",
+  "source": "Q8514544",
+  "target": "Q11383418",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514544:Q8514455",
+  "source": "Q8514544",
+  "target": "Q8514455",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514544:Q8514497",
+  "source": "Q8514544",
+  "target": "Q8514497",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514556:Q847002",
+  "source": "Q8514556",
+  "target": "Q847002",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514561:Q8514515",
+  "source": "Q8514561",
+  "target": "Q8514515",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514573:Q11582501",
+  "source": "Q8514573",
+  "target": "Q11582501",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514579:Q8514599",
+  "source": "Q8514579",
+  "target": "Q8514599",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514579:Q8514629",
+  "source": "Q8514579",
+  "target": "Q8514629",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514593:Q8514636",
+  "source": "Q8514593",
+  "target": "Q8514636",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514599:Q8515901",
+  "source": "Q8514599",
+  "target": "Q8515901",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514605:Q8514491",
+  "source": "Q8514605",
+  "target": "Q8514491",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514605:Q8514549",
+  "source": "Q8514605",
+  "target": "Q8514549",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514605:Q8514623",
+  "source": "Q8514605",
+  "target": "Q8514623",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514611:Q8514642",
+  "source": "Q8514611",
+  "target": "Q8514642",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514623:Q5370062",
+  "source": "Q8514623",
+  "target": "Q5370062",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514623:Q8514587",
+  "source": "Q8514623",
+  "target": "Q8514587",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514642:Q8514605",
+  "source": "Q8514642",
+  "target": "Q8514605",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514642:Q8514617",
+  "source": "Q8514642",
+  "target": "Q8514617",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514660:Q8514703",
+  "source": "Q8514660",
+  "target": "Q8514703",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514666:Q8514674",
+  "source": "Q8514666",
+  "target": "Q8514674",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514674:Q8514691",
+  "source": "Q8514674",
+  "target": "Q8514691",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514679:Q8514668",
+  "source": "Q8514679",
+  "target": "Q8514668",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514697:Q8514660",
+  "source": "Q8514697",
+  "target": "Q8514660",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514697:Q8514685",
+  "source": "Q8514697",
+  "target": "Q8514685",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514703:Q8514654",
+  "source": "Q8514703",
+  "target": "Q8514654",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514703:Q8514666",
+  "source": "Q8514703",
+  "target": "Q8514666",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514709:Q5370045",
+  "source": "Q8514709",
+  "target": "Q5370045",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514709:Q5370072",
+  "source": "Q8514709",
+  "target": "Q5370072",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514715:Q5370076",
+  "source": "Q8514715",
+  "target": "Q5370076",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514740:Q8514730",
+  "source": "Q8514740",
+  "target": "Q8514730",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514745:Q8514721",
+  "source": "Q8514745",
+  "target": "Q8514721",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514745:Q851776",
+  "source": "Q8514745",
+  "target": "Q851776",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514762:Q8514779",
+  "source": "Q8514762",
+  "target": "Q8514779",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514768:Q11359143",
+  "source": "Q8514768",
+  "target": "Q11359143",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514768:Q8514725",
+  "source": "Q8514768",
+  "target": "Q8514725",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514768:Q8514791",
+  "source": "Q8514768",
+  "target": "Q8514791",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514773:Q8514740",
+  "source": "Q8514773",
+  "target": "Q8514740",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514773:Q8514785",
+  "source": "Q8514773",
+  "target": "Q8514785",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514785:Q8514751",
+  "source": "Q8514785",
+  "target": "Q8514751",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514785:Q8514757",
+  "source": "Q8514785",
+  "target": "Q8514757",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514785:Q8514768",
+  "source": "Q8514785",
+  "target": "Q8514768",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514797:Q8514847",
+  "source": "Q8514797",
+  "target": "Q8514847",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514807:Q8514841",
+  "source": "Q8514807",
+  "target": "Q8514841",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514831:Q8514807",
+  "source": "Q8514831",
+  "target": "Q8514807",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514841:Q8514803",
+  "source": "Q8514841",
+  "target": "Q8514803",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514841:Q8514816",
+  "source": "Q8514841",
+  "target": "Q8514816",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514841:Q8514835",
+  "source": "Q8514841",
+  "target": "Q8514835",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514841:Q8515920",
+  "source": "Q8514841",
+  "target": "Q8515920",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514847:Q11474311",
+  "source": "Q8514847",
+  "target": "Q11474311",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514867:Q8515929",
+  "source": "Q8514867",
+  "target": "Q8515929",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514880:Q11374499",
+  "source": "Q8514880",
+  "target": "Q11374499",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514885:Q8514148",
+  "source": "Q8514885",
+  "target": "Q8514148",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514885:Q8514975",
+  "source": "Q8514885",
+  "target": "Q8514975",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514891:Q8514885",
+  "source": "Q8514891",
+  "target": "Q8514885",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514891:Q8514963",
+  "source": "Q8514891",
+  "target": "Q8514963",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514914:Q8514902",
+  "source": "Q8514914",
+  "target": "Q8514902",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514937:Q8514908",
+  "source": "Q8514937",
+  "target": "Q8514908",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514963:Q8514937",
+  "source": "Q8514963",
+  "target": "Q8514937",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514975:Q10517132",
+  "source": "Q8514975",
+  "target": "Q10517132",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514975:Q8514986",
+  "source": "Q8514975",
+  "target": "Q8514986",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514986:Q8514980",
+  "source": "Q8514986",
+  "target": "Q8514980",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8514993:Q8515950",
+  "source": "Q8514993",
+  "target": "Q8515950",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515021:Q8515052",
+  "source": "Q8515021",
+  "target": "Q8515052",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515039:Q8514999",
+  "source": "Q8515039",
+  "target": "Q8514999",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515043:Q6788058",
+  "source": "Q8515043",
+  "target": "Q6788058",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515043:Q8515053",
+  "source": "Q8515043",
+  "target": "Q8515053",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515052:Q8515058",
+  "source": "Q8515052",
+  "target": "Q8515058",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515052:Q8515079",
+  "source": "Q8515052",
+  "target": "Q8515079",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515055:Q8515043",
+  "source": "Q8515055",
+  "target": "Q8515043",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515098:Q8515092",
+  "source": "Q8515098",
+  "target": "Q8515092",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515122:Q8515135",
+  "source": "Q8515122",
+  "target": "Q8515135",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515140:Q11239149",
+  "source": "Q8515140",
+  "target": "Q11239149",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515157:Q8515175",
+  "source": "Q8515157",
+  "target": "Q8515175",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515163:Q8515220",
+  "source": "Q8515163",
+  "target": "Q8515220",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515175:Q8515231",
+  "source": "Q8515175",
+  "target": "Q8515231",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515187:Q8515208",
+  "source": "Q8515187",
+  "target": "Q8515208",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515193:Q8514951",
+  "source": "Q8515193",
+  "target": "Q8514951",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515193:Q8515249",
+  "source": "Q8515193",
+  "target": "Q8515249",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515202:Q8515181",
+  "source": "Q8515202",
+  "target": "Q8515181",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515202:Q8515243",
+  "source": "Q8515202",
+  "target": "Q8515243",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515208:Q8515214",
+  "source": "Q8515208",
+  "target": "Q8515214",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515214:Q8515986",
+  "source": "Q8515214",
+  "target": "Q8515986",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515220:Q8515237",
+  "source": "Q8515220",
+  "target": "Q8515237",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515226:Q8515254",
+  "source": "Q8515226",
+  "target": "Q8515254",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515231:Q8515169",
+  "source": "Q8515231",
+  "target": "Q8515169",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515249:Q8515202",
+  "source": "Q8515249",
+  "target": "Q8515202",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515249:Q8515259",
+  "source": "Q8515249",
+  "target": "Q8515259",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515249:Q8515371",
+  "source": "Q8515249",
+  "target": "Q8515371",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515249:Q8515377",
+  "source": "Q8515249",
+  "target": "Q8515377",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515285:Q8515297",
+  "source": "Q8515285",
+  "target": "Q8515297",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515303:Q8515330",
+  "source": "Q8515303",
+  "target": "Q8515330",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515308:Q3208958",
+  "source": "Q8515308",
+  "target": "Q3208958",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515330:Q8515308",
+  "source": "Q8515330",
+  "target": "Q8515308",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515344:Q8515349",
+  "source": "Q8515344",
+  "target": "Q8515349",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515349:Q8515338",
+  "source": "Q8515349",
+  "target": "Q8515338",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515371:Q8515384",
+  "source": "Q8515371",
+  "target": "Q8515384",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515388:Q8516010",
+  "source": "Q8515388",
+  "target": "Q8516010",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515399:Q107395",
+  "source": "Q8515399",
+  "target": "Q107395",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515415:Q8515421",
+  "source": "Q8515415",
+  "target": "Q8515421",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515415:Q8516022",
+  "source": "Q8515415",
+  "target": "Q8516022",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515427:Q8515404",
+  "source": "Q8515427",
+  "target": "Q8515404",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515440:Q8515399",
+  "source": "Q8515440",
+  "target": "Q8515399",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515448:Q8515427",
+  "source": "Q8515448",
+  "target": "Q8515427",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515454:Q8515440",
+  "source": "Q8515454",
+  "target": "Q8515440",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515466:Q8515460",
+  "source": "Q8515466",
+  "target": "Q8515460",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515486:Q108780773",
+  "source": "Q8515486",
+  "target": "Q108780773",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515486:Q8516028",
+  "source": "Q8515486",
+  "target": "Q8516028",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515491:Q8515481",
+  "source": "Q8515491",
+  "target": "Q8515481",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515491:Q8515510",
+  "source": "Q8515491",
+  "target": "Q8515510",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515491:Q8515522",
+  "source": "Q8515491",
+  "target": "Q8515522",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515491:Q8515528",
+  "source": "Q8515491",
+  "target": "Q8515528",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515496:Q8515501",
+  "source": "Q8515496",
+  "target": "Q8515501",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515501:Q8515486",
+  "source": "Q8515501",
+  "target": "Q8515486",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515522:Q11520027",
+  "source": "Q8515522",
+  "target": "Q11520027",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515546:Q11427640",
+  "source": "Q8515546",
+  "target": "Q11427640",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515546:Q11427654",
+  "source": "Q8515546",
+  "target": "Q11427654",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515929:Q113244807",
+  "source": "Q8515929",
+  "target": "Q113244807",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515929:Q8514875",
+  "source": "Q8515929",
+  "target": "Q8514875",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515986:Q11644188",
+  "source": "Q8515986",
+  "target": "Q11644188",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8515986:Q8515193",
+  "source": "Q8515986",
+  "target": "Q8515193",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8516028:Q8515516",
+  "source": "Q8516028",
+  "target": "Q8515516",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q8516028:Q8516025",
+  "source": "Q8516028",
+  "target": "Q8516025",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q851776:Q7041864",
+  "source": "Q851776",
+  "target": "Q7041864",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q851776:Q851787",
+  "source": "Q851776",
+  "target": "Q851787",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q859759:Q1071770",
+  "source": "Q859759",
+  "target": "Q1071770",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q859795:Q1142657",
+  "source": "Q859795",
+  "target": "Q1142657",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q862949:Q7224597",
+  "source": "Q862949",
+  "target": "Q7224597",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q869401:Q8081570",
+  "source": "Q869401",
+  "target": "Q8081570",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q871566:Q1042428",
+  "source": "Q871566",
+  "target": "Q1042428",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q906580:Q5520435",
+  "source": "Q906580",
+  "target": "Q5520435",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q907127:Q10856562",
+  "source": "Q907127",
+  "target": "Q10856562",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q909029:Q837782",
+  "source": "Q909029",
+  "target": "Q837782",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q909763:Q8514046",
+  "source": "Q909763",
+  "target": "Q8514046",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q910241:Q11427632",
+  "source": "Q910241",
+  "target": "Q11427632",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q936047:Q11427642",
+  "source": "Q936047",
+  "target": "Q11427642",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q936047:Q8515540",
+  "source": "Q936047",
+  "target": "Q8515540",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q936047:Q8515551",
+  "source": "Q936047",
+  "target": "Q8515551",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q97229426:Q10517485",
+  "source": "Q97229426",
+  "target": "Q10517485",
+  "type": "blood",
+  "flags": []
+ },
+ {
+  "id": "blood:Q982743:Q6636871",
+  "source": "Q982743",
+  "target": "Q6636871",
+  "type": "blood",
+  "flags": []
+ }
+]

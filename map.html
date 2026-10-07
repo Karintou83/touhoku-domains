@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>地図 | 東北諸藩 藩主データ</title>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/graph-ui.js"></script>
+<script src="assets/js/map-model.js"></script>
+<script src="assets/js/map.js"></script>
+</head>
+<body class="app">
+<header class="site">
+  <h1><a href="index.html">東北諸藩 藩主データ</a></h1>
+  <nav><a href="index.html">トップ</a><a href="tree.html">藩別の家系図</a><a href="all.html">全体の系図</a><a href="map.html" aria-current="page">地図</a></nav>
+</header>
+<div id="error" class="error" role="alert" hidden></div>
+<main>
+  <aside class="side">
+    <section class="card">
+      <h2>年</h2>
+      <div class="yearrow"><button type="button" class="btn" data-step="-10" aria-label="10年戻る">−10</button><button type="button" class="btn" data-step="-1" aria-label="1年戻る">−1</button>
+        <strong id="yearLabel"></strong>
+        <button type="button" class="btn" data-step="1" aria-label="1年進む">+1</button><button type="button" class="btn" data-step="10" aria-label="10年進む">+10</button></div>
+      <input type="range" id="year" aria-label="年">
+      <div class="playrow">
+        <button type="button" class="btn play" id="play" aria-pressed="false" title="自動再生(スペースキーでも切り替え)">▶ 再生</button>
+        <label class="sub">速さ <select id="speed" aria-label="再生の速さ"><option value="3">ゆっくり(3年/秒)</option><option value="8" selected>ふつう(8年/秒)</option><option value="20">はやい(20年/秒)</option></select></label>
+      </div>
+      <p id="summary" class="sub"></p>
+      <label class="check"><input type="checkbox" id="showFaces" checked> 藩主の肖像をマーカーに表示</label>
+      <label class="check"><input type="checkbox" id="showExternal"> 東北外の藩も表示(実父の出身家)</label>
+    </section>
+    <section class="card">
+      <h2>藩主の氏で色分け</h2>
+      <div id="legend" class="legend-btns"></div>
+      <button type="button" class="btn" id="clearClan">強調を解除</button>
+      <p class="sub">氏をクリックすると、その氏の藩だけを強調します。縁が破線のマーカーは、氏が名前・実父からの推定、または位置が概略・仮置きです。</p>
+    </section>
+    <p id="kyukokuNote" class="sub" hidden>旧国境のデータ(data/kyukoku.geojson)は未取得です。<code>python scripts/fetch_kyukoku.py</code> で取得できます。</p>
+    <details class="card"><summary>座標がなく地図に出せない藩(<span id="missingCount"></span>)</summary>
+      <ul id="missing" class="lords"></ul>
+    </details>
+  </aside>
+  <div id="map" class="canvas"></div>
+  <aside class="side"><section class="card" id="detail"><p class="sub">マーカーをクリックすると、その藩の歴代藩主を表示します。</p></section></aside>
+</main>
+<footer class="site">
+  地図: <a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">国土地理院</a>(白地図・淡色地図)。<span id="kyukokuCredit" hidden>旧国境: 『旧国・旧郡境界データセット』(CODH作成)「幕末明治地勢地図境界データ」(人間文化研究機構作成)を加工(<a href="https://doi.org/10.20676/00000454" target="_blank" rel="noopener">doi:10.20676/00000454</a>)。</span> データ: <a href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a>(CC0)。藩名のリンクは日本語版Wikipedia、人物名は家系図ページへ。
+  マーカーは藩庁(陣屋・城)の位置で、領地の範囲ではありません。 <span id="generated"></span>
+</footer>
+</body>
+</html>

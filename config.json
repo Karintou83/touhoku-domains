@@ -1,0 +1,41 @@
+{
+  "_comment": "build_data.py / validate.py の設定。判断が入る部分はコードに埋めず、ここに出して見える化する。",
+  "position_class": "Q24887524",
+  "external_domains": {
+    "Q910993": "佐倉藩",
+    "Q3034399": "小城藩",
+    "Q1073012": "峰山藩",
+    "Q1058224": "津山藩",
+    "Q1062196": "赤穂藩",
+    "Q3034464": "鹿島藩"
+  },
+  "include_adoption": false,
+  "ancestor_generations": 8,
+  "p1039_roles": {},
+  "year_range": [
+    1550,
+    1880
+  ],
+  "japan_bbox": {
+    "lat": [
+      24.0,
+      46.0
+    ],
+    "lon": [
+      122.0,
+      146.0
+    ]
+  },
+  "branch_domains": {
+    "Q12608573": "Q1037948",
+    "Q10855530": "Q1067720",
+    "Q12603905": "Q1067555"
+  },
+  "image_license_prefixes": [
+    "public domain",
+    "pd",
+    "cc0",
+    "cc by"
+  ],
+  "image_exclude": []
+}
